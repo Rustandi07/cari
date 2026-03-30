@@ -53166,12 +53166,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200789021.jpg"
   },
   {
-    "plu": "10037196",
-    "barcode": "8992916121509",
-    "nama": "Selsun Shampoo Anti-Dandruf Blue 120Ml",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100371961.jpg"
-  },
-  {
     "plu": "20137878",
     "barcode": "8997226225695",
     "nama": "Cbd Keratin Pro Dialy Conditioner 250Ml",
@@ -53226,9 +53220,15 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100197651.jpg"
   },
   {
-    "plu": "10019764",
-    "barcode": "4987205000126",
-    "nama": "Bigen Hair Color Conditioner No.881 Natural Black",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100197641.jpg"
+    "plu": "10037196",
+    "barcode": "8992916121509",
+    "nama": "",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100371961.jpg"
+  },
+  {
+    "plu": "20141639",
+    "barcode": "8993218173210",
+    "nama": "SKTONIK ACTV GUMMY6S",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416391.jpg"
   }
 ]
