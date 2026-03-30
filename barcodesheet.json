@@ -53196,12 +53196,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200569571.jpg"
   },
   {
-    "plu": "20075949",
-    "barcode": "0800142384545",
-    "nama": "Makarizo Hair Energy Fibertherapy Shampoo Royal Jelly 330mL",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200759491.jpg"
-  },
-  {
     "plu": "20111700",
     "barcode": "0800142384132",
     "nama": "Makarizo Hair & Scalp Creambath Fibertherapy Aloe & Melon 500g",
@@ -53266,5 +53260,11 @@
     "barcode": "8993417489259",
     "nama": "Ellips Vitamin Hair Mask Pro-Keratin Hair Repair 120g",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201220751.jpg"
+  },
+  {
+    "plu": "20075949",
+    "barcode": "0800142384545",
+    "nama": "Makarizo Hair Energy Fibertherapy Shampoo Royal Jelly 330mL",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200759491.jpg"
   }
 ]
