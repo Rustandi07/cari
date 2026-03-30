@@ -53190,12 +53190,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100371961.jpg"
   },
   {
-    "plu": "20112649",
-    "barcode": "0800142202085",
-    "nama": "Makarizo Advisor Hair Recovery Vita Max 50Ml",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201126491.jpg"
-  },
-  {
     "plu": "20056957",
     "barcode": "8992821100774",
     "nama": "Selsun Shampoo Anti-Dandruf Gold 120Ml",
@@ -53266,5 +53260,11 @@
     "barcode": "0800142386099",
     "nama": "Makarizo Hair & Scalp Tonic 150mL",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200759401.jpg"
+  },
+  {
+    "plu": "20112649",
+    "barcode": "0800142202085",
+    "nama": "Makarizo Advisor Hair Recovery Vita Max 50Ml",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201126491.jpg"
   }
 ]
