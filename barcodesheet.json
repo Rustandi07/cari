@@ -53196,12 +53196,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200569571.jpg"
   },
   {
-    "plu": "20122075",
-    "barcode": "8993417489259",
-    "nama": "Ellips Vitamin Hair Mask Pro-Keratin Hair Repair 120g",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201220751.jpg"
-  },
-  {
     "plu": "20075949",
     "barcode": "0800142384545",
     "nama": "Makarizo Hair Energy Fibertherapy Shampoo Royal Jelly 330mL",
@@ -53266,5 +53260,11 @@
     "barcode": "8993417308130",
     "nama": "Ellips Vitamin Hair Mist Me Up 50mL",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416361.jpg"
+  },
+  {
+    "plu": "20122075",
+    "barcode": "8993417489259",
+    "nama": "Ellips Vitamin Hair Mask Pro-Keratin Hair Repair 120g",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201220751.jpg"
   }
 ]
