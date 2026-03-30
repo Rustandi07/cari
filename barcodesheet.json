@@ -53196,12 +53196,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200569571.jpg"
   },
   {
-    "plu": "20141636",
-    "barcode": "8993417308130",
-    "nama": "Ellips Vitamin Hair Mist Me Up 50mL",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416361.jpg"
-  },
-  {
     "plu": "20122075",
     "barcode": "8993417489259",
     "nama": "Ellips Vitamin Hair Mask Pro-Keratin Hair Repair 120g",
@@ -53266,5 +53260,11 @@
     "barcode": "0800142202085",
     "nama": "Makarizo Advisor Hair Recovery Vita Max 50Ml",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201126491.jpg"
+  },
+  {
+    "plu": "20141636",
+    "barcode": "8993417308130",
+    "nama": "Ellips Vitamin Hair Mist Me Up 50mL",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416361.jpg"
   }
 ]
