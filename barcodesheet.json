@@ -53190,12 +53190,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100371961.jpg"
   },
   {
-    "plu": "20141639",
-    "barcode": "8993218173210",
-    "nama": "SKTONIK ACTV GUMMY6S",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416391.jpg"
-  },
-  {
     "plu": "20112649",
     "barcode": "0800142202085",
     "nama": "Makarizo Advisor Hair Recovery Vita Max 50Ml",
@@ -53260,5 +53254,11 @@
     "barcode": "4987205000126",
     "nama": "Bigen Hair Color Conditioner No.881 Natural Black",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100197641.jpg"
+  },
+  {
+    "plu": "20141639",
+    "barcode": "8993218173210",
+    "nama": "SKTONIK ACTV GUMMY6S",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416391.jpg"
   }
 ]
