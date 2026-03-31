@@ -53280,12 +53280,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201413731.jpg"
   },
   {
-    "plu": "20141623",
-    "barcode": "8997235180817",
-    "nama": "IDM AIR BDD 6X500ML",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416231.jpg"
-  },
-  {
     "plu": "20125312",
     "barcode": "043689",
     "nama": "",
@@ -53302,5 +53296,11 @@
     "barcode": "8993351129211",
     "nama": "Greenfields Fresh Milk Pasteurisasi Low Fat 950mL",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200070641.jpg"
+  },
+  {
+    "plu": "20141623",
+    "barcode": "8997235180817",
+    "nama": "IDM AIR BDD 6X500ML",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416231.jpg"
   }
 ]
