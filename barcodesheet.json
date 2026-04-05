@@ -43596,12 +43596,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20138572_1.jpg"
   },
   {
-    "plu": "20070668",
-    "barcode": "8997015440087",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200706681.jpg"
-  },
-  {
     "plu": "20138014",
     "barcode": "045953",
     "nama": "",
@@ -53776,5 +53770,11 @@
     "barcode": "8999523487523",
     "nama": "POTATO CRSP BLDO 170",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200741511.jpg"
+  },
+  {
+    "plu": "20070668",
+    "barcode": "8997015440087",
+    "nama": "Ngawiti Mas Beras 5Kg",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200706681.jpg"
   }
 ]
