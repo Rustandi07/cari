@@ -53928,12 +53928,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201418871.jpg"
   },
   {
-    "plu": "20117257",
-    "barcode": "8850030116064",
-    "nama": "LOBO TOMYUM PASTE 30G X 12",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201172571.jpg"
-  },
-  {
     "plu": "20108950",
     "barcode": "8997217031151",
     "nama": "",
@@ -54040,5 +54034,11 @@
     "barcode": "8997217031182",
     "nama": "La Fancy Merica Putih Bubuk 70g",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089441.jpg"
+  },
+  {
+    "plu": "20117257",
+    "barcode": "8850030116064",
+    "nama": "Lobo Bumbu Pasta Tom Yum 30G",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201172571.jpg"
   }
 ]
