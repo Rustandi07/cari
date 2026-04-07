@@ -52650,12 +52650,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200440931.jpg"
   },
   {
-    "plu": "20141369",
-    "barcode": "8999999617981",
-    "nama": "RINSO DETERGENT CAIR QUICK WASH PERFUME BREEZE 650",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201413691.jpg"
-  },
-  {
     "plu": "20141508",
     "barcode": "8997007300153",
     "nama": "KRATINGDAENG ENERGY DRINK REGULER 3x150ml BDD",
@@ -53980,5 +53974,11 @@
     "barcode": "8992718853806",
     "nama": "",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200960561.jpg"
+  },
+  {
+    "plu": "20141369",
+    "barcode": "8999999617981",
+    "nama": "RINSO P.BRZE BTL 650",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201413691.jpg"
   }
 ]
