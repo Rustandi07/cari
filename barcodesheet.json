@@ -53928,12 +53928,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201418871.jpg"
   },
   {
-    "plu": "20108944",
-    "barcode": "8997217031182",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089441.jpg"
-  },
-  {
     "plu": "20117257",
     "barcode": "8850030116064",
     "nama": "LOBO TOMYUM PASTE 30G X 12",
@@ -54040,5 +54034,11 @@
     "barcode": "8997230802332",
     "nama": "Pokemon Set Spesial Ledakan Peniada",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201419531.jpg"
+  },
+  {
+    "plu": "20108944",
+    "barcode": "8997217031182",
+    "nama": "La Fancy Merica Putih Bubuk 70g",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089441.jpg"
   }
 ]
