@@ -53928,12 +53928,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201418871.jpg"
   },
   {
-    "plu": "20108953",
-    "barcode": "8997217031175",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089531.jpg"
-  },
-  {
     "plu": "20108946",
     "barcode": "8997217030048",
     "nama": "",
@@ -54040,5 +54034,11 @@
     "barcode": "8997217031151",
     "nama": "La Fancy Ketumbar Bubuk 42g",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089501.jpg"
+  },
+  {
+    "plu": "20108953",
+    "barcode": "8997217031175",
+    "nama": "La Fancy Kayu Manis Bubuk 60g",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089531.jpg"
   }
 ]
