@@ -53928,12 +53928,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201418871.jpg"
   },
   {
-    "plu": "20141953",
-    "barcode": "8997230802332",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201419531.jpg"
-  },
-  {
     "plu": "20108944",
     "barcode": "8997217031182",
     "nama": "",
@@ -54040,5 +54034,11 @@
     "barcode": "8997217030055",
     "nama": "La Fancy Merica Hitam Remah 60g",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089491.jpg"
+  },
+  {
+    "plu": "20141953",
+    "barcode": "8997230802332",
+    "nama": "Pokemon Set Spesial Ledakan Peniada",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201419531.jpg"
   }
 ]
