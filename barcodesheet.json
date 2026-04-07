@@ -53928,12 +53928,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201418871.jpg"
   },
   {
-    "plu": "20108950",
-    "barcode": "8997217031151",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089501.jpg"
-  },
-  {
     "plu": "20108953",
     "barcode": "8997217031175",
     "nama": "",
@@ -54040,5 +54034,11 @@
     "barcode": "8850030116064",
     "nama": "Lobo Bumbu Pasta Tom Yum 30G",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201172571.jpg"
+  },
+  {
+    "plu": "20108950",
+    "barcode": "8997217031151",
+    "nama": "La Fancy Ketumbar Bubuk 42g",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089501.jpg"
   }
 ]
