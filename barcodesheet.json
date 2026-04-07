@@ -53928,12 +53928,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201418871.jpg"
   },
   {
-    "plu": "20108949",
-    "barcode": "8997217030055",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089491.jpg"
-  },
-  {
     "plu": "20141953",
     "barcode": "8997230802332",
     "nama": "",
@@ -54040,5 +54034,11 @@
     "barcode": "764014772033",
     "nama": "Asepso Body Wash Original With Aloe btl 250Ml",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201042691.jpg"
+  },
+  {
+    "plu": "20108949",
+    "barcode": "8997217030055",
+    "nama": "La Fancy Merica Hitam Remah 60g",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089491.jpg"
   }
 ]
