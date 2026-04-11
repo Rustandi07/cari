@@ -48432,12 +48432,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200528291.jpg"
   },
   {
-    "plu": "20091004",
-    "barcode": "20091004",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200910041.jpg"
-  },
-  {
     "plu": "20131075",
     "barcode": "20131075",
     "nama": "",
@@ -54340,5 +54334,11 @@
     "barcode": "025903",
     "nama": "Yc sosis bakar sapi",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200786511.jpg"
+  },
+  {
+    "plu": "20091004",
+    "barcode": "031995",
+    "nama": "S BRD TA DOUB CH ROL",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200910041.jpg"
   }
 ]
