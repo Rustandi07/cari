@@ -18594,12 +18594,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20087464_1.jpg"
   },
   {
-    "plu": "20087465",
-    "barcode": "029210",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200874651.jpg"
-  },
-  {
     "plu": "20087479",
     "barcode": "4902430807692",
     "nama": "Downy Softener Floral Pink 600mL",
@@ -54340,5 +54334,11 @@
     "barcode": "031995",
     "nama": "S BRD TA DOUB CH ROL",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200910041.jpg"
+  },
+  {
+    "plu": "20087465",
+    "barcode": "029210",
+    "nama": "S BRD TA SS BLCKPPR",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200874651.jpg"
   }
 ]
