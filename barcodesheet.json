@@ -43164,12 +43164,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200993611.jpg"
   },
   {
-    "plu": "20078651",
-    "barcode": "025903",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200786511.jpg"
-  },
-  {
     "plu": "20134687",
     "barcode": "8994112600253",
     "nama": "Adinata Special Shape Memo ",
@@ -54340,5 +54334,11 @@
     "barcode": "8997003870643",
     "nama": "Bawang Merah Fresh 250G",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200566541.jpg"
+  },
+  {
+    "plu": "20078651",
+    "barcode": "025903",
+    "nama": "Yc sosis bakar sapi",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200786511.jpg"
   }
 ]
