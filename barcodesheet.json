@@ -6822,6 +6822,12 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20008767_1.jpg"
   },
   {
+    "plu": "20008785",
+    "barcode": "0896867700494",
+    "nama": "Ades Air Mineral 600Ml",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20005835_1.jpg"
+  },
+  {
     "plu": "20008798",
     "barcode": "8991001111647",
     "nama": "Silver Queen Chocolate Chunky Bar Cashew 85g",
@@ -52680,12 +52686,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416001.jpg"
   },
   {
-    "plu": "047398",
-    "barcode": "20141306",
-    "nama": "INDOMARET COSMETIC (HADIAH)",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/0473981.jpg"
-  },
-  {
     "plu": "20123322",
     "barcode": "8998866202893",
     "nama": "GOLDA COFFEE DRINK CAPPUCCINO 200ML",
@@ -54622,29 +54622,5 @@
     "barcode": "047396",
     "nama": "INDOMARET COSMETIC (HADIAH)",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201413061.jpg"
-  },
-  {
-    "plu": "20008785",
-    "barcode": "0896867700494",
-    "nama": "Club Air Mineral 1500Ml",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200087851.jpg"
-  },
-  {
-    "plu": "20140988",
-    "barcode": "8994448720151",
-    "nama": "KING DJAVA ROKOK FILTER 20's BKS",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201409881.jpg"
-  },
-  {
-    "plu": "20134929",
-    "barcode": "8882504356",
-    "nama": "WALL'S CORNETTO WHITE ROSE PHOTOCARD (HADIAH)",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201349291.jpg"
-  },
-  {
-    "plu": "20137099",
-    "barcode": "8993007007283",
-    "nama": "INDOMILK GAME KARTU POKEMON HADIAH",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201370991.jpg"
   }
 ]
