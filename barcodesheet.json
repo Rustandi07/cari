@@ -6822,12 +6822,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20008767_1.jpg"
   },
   {
-    "plu": "20008785",
-    "barcode": "0896867700494",
-    "nama": "Ades Air Mineral 600Ml",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20005835_1.jpg"
-  },
-  {
     "plu": "20008798",
     "barcode": "8991001111647",
     "nama": "Silver Queen Chocolate Chunky Bar Cashew 85g",
@@ -52686,6 +52680,12 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416001.jpg"
   },
   {
+    "plu": "047398",
+    "barcode": "20141306",
+    "nama": "INDOMARET COSMETIC (HADIAH)",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/0473981.jpg"
+  },
+  {
     "plu": "20123322",
     "barcode": "8998866202893",
     "nama": "GOLDA COFFEE DRINK CAPPUCCINO 200ML",
@@ -54622,5 +54622,11 @@
     "barcode": "047396",
     "nama": "INDOMARET COSMETIC (HADIAH)",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201413061.jpg"
+  },
+  {
+    "plu": "20008785",
+    "barcode": "0896867700494",
+    "nama": "Club Air Mineral 1500Ml",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200087851.jpg"
   }
 ]
