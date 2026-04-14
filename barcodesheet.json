@@ -54624,12 +54624,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201413061.jpg"
   },
   {
-    "plu": "20140988",
-    "barcode": "8994448720151",
-    "nama": "KING DJAVA ROKOK FILTER 20's BKS",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201409881.jpg"
-  },
-  {
     "plu": "20134929",
     "barcode": "8882504356",
     "nama": "WALL'S CORNETTO WHITE ROSE PHOTOCARD (HADIAH)",
@@ -54646,5 +54640,11 @@
     "barcode": "0896867700494",
     "nama": "Club Air Mineral 1500Ml",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200087851.jpg"
+  },
+  {
+    "plu": "20140988",
+    "barcode": "8994448720151",
+    "nama": "KING DJAVA ROKOK FILTER 20's BKS",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201409881.jpg"
   }
 ]
