@@ -52692,12 +52692,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/0473981.jpg"
   },
   {
-    "plu": "20141306",
-    "barcode": "047396",
-    "nama": "INDOMARET COSMETIC (HADIAH)",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201413061.jpg"
-  },
-  {
     "plu": "20123322",
     "barcode": "8998866202893",
     "nama": "GOLDA COFFEE DRINK CAPPUCCINO 200ML",
@@ -54628,5 +54622,11 @@
     "barcode": "8994506010255",
     "nama": "Indomaret Garam 500G",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200266761.jpg"
+  },
+  {
+    "plu": "20141306",
+    "barcode": "047396",
+    "nama": "INDOMARET COSMETIC (HADIAH)",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201413061.jpg"
   }
 ]
