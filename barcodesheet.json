@@ -52686,16 +52686,16 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/0473981.jpg"
   },
   {
+    "plu": "20123322",
+    "barcode": "8998866202893",
+    "nama": "GOLDA COFFEE DRINK CAPPUCCINO 200ML",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201233221.jpg"
+  },
+  {
     "plu": "20048626",
     "barcode": "8801056143015",
     "nama": "LOTTE CHL CDR LMN250",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200486261.jpg"
-  },
-  {
-    "plu": "20087542",
-    "barcode": "8998866201841",
-    "nama": "GOLDA COFFEE DRINK DOLCE LATTE 200ML",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200875421.jpg"
   },
   {
     "plu": "20075784",
@@ -54720,9 +54720,9 @@
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20073448.jpg"
   },
   {
-    "plu": "20123322",
-    "barcode": "8998866202893",
-    "nama": "Golda Coffee Drink Cappuccino 200mL",
-    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20123322.jpg"
+    "plu": "20087542",
+    "barcode": "8998866201841",
+    "nama": "Golda Coffee Drink Dolce Latte 200mL",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20087542.jpg"
   }
 ]
