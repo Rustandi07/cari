@@ -52602,12 +52602,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200238451.jpg"
   },
   {
-    "plu": "20044093",
-    "barcode": "8886467130526",
-    "nama": "PRINGLES POTATO CRISPS SOURCREAM&ONION 102g KLG",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200440931.jpg"
-  },
-  {
     "plu": "20141508",
     "barcode": "8997007300153",
     "nama": "KRATINGDAENG ENERGY DRINK REGULER 3x150ml BDD",
@@ -54778,5 +54772,11 @@
     "barcode": "8993039243482",
     "nama": "Regal Dark Marie Biscuits 120G",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20139082.jpg"
+  },
+  {
+    "plu": "20044093",
+    "barcode": "8886467100024",
+    "nama": "Pringles Potato Crisps Sourcream & Onion 102G",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20044093.jpg"
   }
 ]
