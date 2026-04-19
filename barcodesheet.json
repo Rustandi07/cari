@@ -13164,12 +13164,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20053649_1.jpg"
   },
   {
-    "plu": "20053651",
-    "barcode": "8992304047435",
-    "nama": "Garnier Turbo Bright Dark Spots + Pore Whitening Super Duo Foam 100Ml",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20053651_1.jpg"
-  },
-  {
     "plu": "20053690",
     "barcode": "8999777004163",
     "nama": "Nivea Deo Roll On Extra Whitening 50Ml",
@@ -54832,5 +54826,11 @@
     "barcode": "8997028740525",
     "nama": "KUE KERANJANG 250G",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201120081.jpg"
+  },
+  {
+    "plu": "20053651",
+    "barcode": "8994993002627",
+    "nama": "Garnier Turbo Bright Dark Spots + Pore Whitening Super Duo Foam 100Ml",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20053651.jpg"
   }
 ]
