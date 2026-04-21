@@ -43014,12 +43014,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20137992_1.jpg"
   },
   {
-    "plu": "20138464",
-    "barcode": "17622202313193",
-    "nama": "Oreo Biscuit Sandwich Original 147.2G",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20138464_1.jpg"
-  },
-  {
     "plu": "20138050",
     "barcode": "8992982700134",
     "nama": "Mujigae Susu Cair Watermelon 250mL",
@@ -54880,5 +54874,11 @@
     "barcode": "8991903101555",
     "nama": "Kikaz Rokok Kretek 12's",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20136044.jpg"
+  },
+  {
+    "plu": "20138464",
+    "barcode": "7622202313202",
+    "nama": "Oreo Biscuit Sandwich Original 147.2G",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20138464.jpg"
   }
 ]
