@@ -31464,12 +31464,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201259081.jpg"
   },
   {
-    "plu": "20125992",
-    "barcode": "8994096226814",
-    "nama": "Indomaret Tas Ramah Lingkungan Karakter Mice 38X30x10.5",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20125992_1.jpg"
-  },
-  {
     "plu": "20125999",
     "barcode": "0194735023844",
     "nama": "",
@@ -54898,5 +54892,11 @@
     "barcode": "8991913102016",
     "nama": "JUMP ROKOK KRETEK FILTER COFFEE 16S",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201343131.jpg"
+  },
+  {
+    "plu": "20125992",
+    "barcode": "8994096112667",
+    "nama": "Indomaret Tas Ramah Lingkungan Karakter Mice 38X30x10.5",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20125992.jpg"
   }
 ]
