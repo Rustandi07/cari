@@ -37272,12 +37272,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201336051.jpg"
   },
   {
-    "plu": "20133606",
-    "barcode": "8997204300284",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201336061.jpg"
-  },
-  {
     "plu": "20133608",
     "barcode": "8991102161176",
     "nama": "",
@@ -54994,5 +54988,11 @@
     "barcode": "042540",
     "nama": "BRICKS SUPER CAR EGG",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416811.jpg"
+  },
+  {
+    "plu": "20133606",
+    "barcode": "8997204300284",
+    "nama": "GIZZI MILK WAFER SELECTION 240G",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20133606.jpg"
   }
 ]
