@@ -5910,12 +5910,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10038449_1.jpg"
   },
   {
-    "plu": "10038450",
-    "barcode": "253168",
-    "nama": "Snowman Spidol Whiteboard Hitam",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10038450_1.jpg"
-  },
-  {
     "plu": "10038628",
     "barcode": "8997025915124",
     "nama": "Hatari Jam Biscuit Peanut 225G",
@@ -54988,5 +54982,11 @@
     "barcode": "8997218380517",
     "nama": "Ichitan Susu Cair Melon 300 ml",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20142025.jpg"
+  },
+  {
+    "plu": "10038450",
+    "barcode": "4970129727514",
+    "nama": "Snowman Spidol Whiteboard Hitam",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/10038450.jpg"
   }
 ]
