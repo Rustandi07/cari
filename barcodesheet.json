@@ -27978,12 +27978,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201196531.jpg"
   },
   {
-    "plu": "20119730",
-    "barcode": "8998866621502",
-    "nama": "Her's Protex Daily Comfort Night 20+2'S Cinnamoroll 30Cm",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20119730_1.jpg"
-  },
-  {
     "plu": "20119841",
     "barcode": "8993351120362",
     "nama": "Greenfields Yogurt Strawberry 110g",
@@ -55072,5 +55066,11 @@
     "barcode": "8721274611410",
     "nama": "CORNETTO MATCHA STRW 108ml",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201421291.jpg"
+  },
+  {
+    "plu": "20119730",
+    "barcode": "8998866621502",
+    "nama": "Her's Protex Daily Comfort Night 20+2'S Cinnamoroll 30Cm",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20119730.jpg"
   }
 ]
