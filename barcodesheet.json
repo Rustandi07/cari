@@ -10002,12 +10002,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20035976_1.jpg"
   },
   {
-    "plu": "20035983",
-    "barcode": "006730",
-    "nama": "Faster Ballpoint C6 3'S Hitam",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20035983_1.jpg"
-  },
-  {
     "plu": "20035998",
     "barcode": "8994096101517",
     "nama": "Indomaret Travel Pack Tissue 50'S",
@@ -55120,5 +55114,11 @@
     "barcode": "8999999514518",
     "nama": "RINSO MOLTO PERF ESSENCE 215ML",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200931861.jpg"
+  },
+  {
+    "plu": "20035983",
+    "barcode": "017277",
+    "nama": "FASTER BALLPOINT C6 3'S HITAM",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20035983.jpg"
   }
 ]
