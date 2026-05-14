@@ -55158,12 +55158,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200362191.jpg"
   },
   {
-    "plu": "20022701",
-    "barcode": "8992907000752",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200227011.jpg"
-  },
-  {
     "plu": "20141863",
     "barcode": "8992907002039",
     "nama": "Sari Roti Sandwich Gandum Krim Keju 46g",
@@ -55260,9 +55254,9 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201421301.jpg"
   },
   {
-    "plu": "20141445",
-    "barcode": "8992907000752",
-    "nama": "Sari Roti Bolu Mini (Sari Kue) Original 35G",
-    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20141445.jpg"
+    "plu": "20022701",
+    "barcode": "20022701",
+    "nama": "",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200227011.jpg"
   }
 ]
