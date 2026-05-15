@@ -55200,12 +55200,6 @@
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20142055.jpg"
   },
   {
-    "plu": "20142108",
-    "barcode": "8997213550038",
-    "nama": "MERAH PUTIH MINYAK GORENG 1800mL PCH",
-    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20142108.jpg"
-  },
-  {
     "plu": "20138344",
     "barcode": "8885013132649",
     "nama": "Kaluli Ice Cream Cheers Cheese 110mL",
@@ -55282,5 +55276,11 @@
     "barcode": "10079656649595",
     "nama": "",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200389531.jpg"
+  },
+  {
+    "plu": "20142108",
+    "barcode": "8997213550038",
+    "nama": "MP MINYAK GRNG1800ML",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20142108.jpg"
   }
 ]
