@@ -42678,12 +42678,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20138219_1.jpg"
   },
   {
-    "plu": "20137834",
-    "barcode": "8051608014716",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201378341.jpg"
-  },
-  {
     "plu": "20138036",
     "barcode": "08999999213497",
     "nama": "Sunsilk Multivitamin Hair Perfume Silky Gloss 100mL",
@@ -55306,5 +55300,11 @@
     "barcode": "045188",
     "nama": "Free Fire Collectible Trading Card",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20134862.jpg"
+  },
+  {
+    "plu": "20137834",
+    "barcode": "8051708014716",
+    "nama": "Panini Adrenalyn XL Fifa Trading Card",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20137834.jpg"
   }
 ]
