@@ -14400,12 +14400,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20062314_1.jpg"
   },
   {
-    "plu": "20062323",
-    "barcode": "18991002105086",
-    "nama": "Kapal Api Krim Kafe 500g",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20062323_1.jpg"
-  },
-  {
     "plu": "20062365",
     "barcode": "8998866200882",
     "nama": "Sukses's Mie Goreng Isi 2 Ayam Kremes 133G",
@@ -55348,5 +55342,11 @@
     "barcode": "8998866635226",
     "nama": "",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201421341.jpg"
+  },
+  {
+    "plu": "20062323",
+    "barcode": "8991002105089",
+    "nama": "Kapal Api Krim Kafe 500g",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20062323.jpg"
   }
 ]
