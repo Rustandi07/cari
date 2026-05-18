@@ -22542,12 +22542,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20100796_1.jpg"
   },
   {
-    "plu": "20100805",
-    "barcode": "0089686621013",
-    "nama": "Promina Silky Puding 9+ Chocolate 4X25g",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20100805_1.jpg"
-  },
-  {
     "plu": "20100889",
     "barcode": "8998127921754",
     "nama": "Dunhill Rokok Fine Cut Filter Bks 12'S",
@@ -55354,5 +55348,11 @@
     "barcode": "8993110004346",
     "nama": "So Good German Sausage Smoked Cheese 55g",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20141982.jpg"
+  },
+  {
+    "plu": "20100805",
+    "barcode": "089686621013",
+    "nama": "Promina Silky Puding 9+ Chocolate 4X25g",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20100805.jpg"
   }
 ]
