@@ -7008,12 +7008,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20010381_1.jpg"
   },
   {
-    "plu": "20010383",
-    "barcode": "8999999033224",
-    "nama": "Lifebuoy Shampoo Anti Dandruff 340Ml",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20010383_1.jpg"
-  },
-  {
     "plu": "20010387",
     "barcode": "001509",
     "nama": "Mr.Bread Roti Kasur 6'S Kombinasi",
@@ -55402,5 +55396,11 @@
     "barcode": "89927457058330",
     "nama": "",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201056171.jpg"
+  },
+  {
+    "plu": "20010383",
+    "barcode": "8999999613198",
+    "nama": "Lifebuoy Shampoo Anti Dandruff 340Ml",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200103831.jpg"
   }
 ]
