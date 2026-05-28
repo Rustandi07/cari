@@ -48306,12 +48306,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20139962_1.jpg"
   },
   {
-    "plu": "20102786",
-    "barcode": "8993014731317",
-    "nama": "Madurasa Minuman Madu Original 12X20G",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20102786_1.jpg"
-  },
-  {
     "plu": "20139996",
     "barcode": "8992918401098",
     "nama": "Nusantara Madu Royal Jelly & Bee Pollen 100mL",
@@ -55618,5 +55612,11 @@
     "barcode": "007580",
     "nama": "Krupuk Palembang 150g",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200298161.jpg"
+  },
+  {
+    "plu": "20102786",
+    "barcode": "8993014731324",
+    "nama": "Madurasa Minuman Madu Original 12X20G",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20102786.jpg"
   }
 ]
