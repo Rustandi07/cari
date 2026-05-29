@@ -660,12 +660,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10000638_1.jpg"
   },
   {
-    "plu": "10000652",
-    "barcode": "0089686010015",
-    "nama": "Indomie Mi Instan Ayam Bawang 69G",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10000652_1.jpg"
-  },
-  {
     "plu": "10000653",
     "barcode": "8994357010022",
     "nama": "Super Bihun Instant Kuah 51g",
@@ -55648,5 +55642,11 @@
     "barcode": "045299",
     "nama": "Y/CHOICE, FZ SIOMAY AYAM",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201346261.jpg"
+  },
+  {
+    "plu": "10000652",
+    "barcode": "089686010015",
+    "nama": "Indomie Mi Instan Ayam Bawang 69G",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100006521.jpg"
   }
 ]
