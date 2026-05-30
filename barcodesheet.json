@@ -39762,12 +39762,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20135647_1.jpg"
   },
   {
-    "plu": "20135659",
-    "barcode": "45301",
-    "nama": "Mr.Bread Roti Tawar Tebal 4'S ",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20135659_1.jpg"
-  },
-  {
     "plu": "20135660",
     "barcode": "8993175562911",
     "nama": "",
@@ -55678,5 +55672,11 @@
     "barcode": "8999178820133",
     "nama": "Chuba Keripik Singkong Rasa Keju 125 g",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20137973.jpg"
+  },
+  {
+    "plu": "20135659",
+    "barcode": "045301",
+    "nama": "Mr.Bread Roti Tawar Tebal 4'S",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20135659.jpg"
   }
 ]
