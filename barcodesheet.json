@@ -43818,12 +43818,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20138358_1.jpg"
   },
   {
-    "plu": "20137758",
-    "barcode": "899444870007",
-    "nama": "Djava Rokok Kretek Tradisional 12's",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20137758_1.jpg"
-  },
-  {
     "plu": "20134738",
     "barcode": "8997035620087",
     "nama": "Djit Sam Kioe Rokok Kretek  Bks 12'S",
@@ -55708,5 +55702,11 @@
     "barcode": "8994214996452",
     "nama": "WISMILAK ROKOK KRETEK SLIM KLIK LYCHEE TEA 16'S",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201412441.jpg"
+  },
+  {
+    "plu": "20137758",
+    "barcode": "8994448720007",
+    "nama": "Djava Rokok Kretek Tradisional 12's",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20137758.jpg"
   }
 ]
