@@ -3108,12 +3108,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10010094_1.jpg"
   },
   {
-    "plu": "10010100",
-    "barcode": "76164217",
-    "nama": "Marlboro Rokok Filter Hardpack 20'S",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10010100_1.jpg"
-  },
-  {
     "plu": "10010102",
     "barcode": "76239878",
     "nama": "Marlboro Rokok Filter Light 20'S",
@@ -55714,5 +55708,11 @@
     "barcode": "8997016224754",
     "nama": "Eversense Extrait De Parfum Purple Hibiscus 30mL",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20142033.jpg"
+  },
+  {
+    "plu": "10010100",
+    "barcode": "8997018460006",
+    "nama": "Marlboro Rokok Filter Hardpack 20'S",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/10010100.jpg"
   }
 ]
