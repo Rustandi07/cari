@@ -46878,12 +46878,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201269571.jpg"
   },
   {
-    "plu": "20139431",
-    "barcode": "89686644005",
-    "nama": "Promina Yogurt Melts Milk 8G",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20139431_1.jpg"
-  },
-  {
     "plu": "10009231",
     "barcode": "8992857010719",
     "nama": "",
@@ -55708,5 +55702,11 @@
     "barcode": "8994448720007",
     "nama": "Djava Rokok Kretek Tradisional 12's",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20137758.jpg"
+  },
+  {
+    "plu": "20139431",
+    "barcode": "0089686644005",
+    "nama": "Promina Yogurt Melts Milk 8G",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20139431.jpg"
   }
 ]
