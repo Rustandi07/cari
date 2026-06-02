@@ -55512,12 +55512,6 @@
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20041564.jpg"
   },
   {
-    "plu": "20137353",
-    "barcode": "8997004302792",
-    "nama": "OISHI SNACK ASSORTED 9'S",
-    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20137353.jpg"
-  },
-  {
     "plu": "20098919",
     "barcode": "032970",
     "nama": "",
@@ -55762,5 +55756,11 @@
     "barcode": "8991682000049",
     "nama": "Krim Meises 5s",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201171191.jpg"
+  },
+  {
+    "plu": "20137353",
+    "barcode": "8997004302792",
+    "nama": "Oishi Snack Assorted 9's",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20137353.jpg"
   }
 ]
