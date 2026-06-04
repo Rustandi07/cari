@@ -32598,12 +32598,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201284081.jpg"
   },
   {
-    "plu": "20128415",
-    "barcode": "8994209001796",
-    "nama": "MED/SPHP BERAS 5KG",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201284151.jpg"
-  },
-  {
     "plu": "20128423",
     "barcode": "6947912670300",
     "nama": "Wiki Variable Combination",
@@ -55858,5 +55852,11 @@
     "barcode": "8998866111225",
     "nama": "Mama Lime Sabun Cuci Piring Charcoal 950 g",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201422751.jpg"
+  },
+  {
+    "plu": "20128415",
+    "barcode": "8994209001796",
+    "nama": "MED SPHP BERAS 5KG",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201284151.jpg"
   }
 ]
