@@ -45384,12 +45384,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201284141.jpg"
   },
   {
-    "plu": "20119830",
-    "barcode": "8994096225817",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201198301.jpg"
-  },
-  {
     "plu": "20124317",
     "barcode": "043030",
     "nama": "",
@@ -55918,5 +55912,11 @@
     "barcode": "8996578634346",
     "nama": "Coffee Robusta Blend 100g",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201129471.jpg"
+  },
+  {
+    "plu": "20119830",
+    "barcode": "8994096225817",
+    "nama": "Larisst Beras Slyp Super 5kg",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201198301.jpg"
   }
 ]
