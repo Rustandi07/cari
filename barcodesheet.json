@@ -24198,12 +24198,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20107717_1.jpg"
   },
   {
-    "plu": "20107723",
-    "barcode": "8993496110440",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201077231.jpg"
-  },
-  {
     "plu": "20107729",
     "barcode": "8998866202633",
     "nama": "Top Coffee Gula Aren Instant 9X22G",
@@ -55872,9 +55866,21 @@
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20071630.jpg"
   },
   {
+    "plu": "8994993034062",
+    "barcode": "20141978",
+    "nama": "",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/89949930340621.jpg"
+  },
+  {
     "plu": "20141978",
     "barcode": "8994993034062",
     "nama": "Garnier Bright Complete Low Ph Wash Vitamin C 100mL",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20141978.jpg"
+  },
+  {
+    "plu": "20107723",
+    "barcode": "8993496110440",
+    "nama": "Sania Royale Minyak Goreng Kedelai Botol 1 L",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20107723.jpg"
   }
 ]
