@@ -40182,12 +40182,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20136077_1.jpg"
   },
   {
-    "plu": "20136090",
-    "barcode": "8992696526754",
-    "nama": "Nestle Cereal Breakfast Trix 30G",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20136090_1.jpg"
-  },
-  {
     "plu": "20136091",
     "barcode": "8992696526761",
     "nama": "Nestle Cereal Breakfast Trix 60G",
@@ -55906,5 +55900,11 @@
     "barcode": "8995077600401",
     "nama": "Dua Kelinci Snack Assorted (12's)",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20104133.jpg"
+  },
+  {
+    "plu": "20136090",
+    "barcode": "8992696526747",
+    "nama": "Nestle Cereal Breakfast Trix 30G",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20136090.jpg"
   }
 ]
