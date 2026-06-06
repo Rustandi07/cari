@@ -37704,12 +37704,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201339651.jpg"
   },
   {
-    "plu": "20133966",
-    "barcode": "7622201704223",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201339661.jpg"
-  },
-  {
     "plu": "20133968",
     "barcode": "8992741906838",
     "nama": "",
@@ -55924,5 +55918,11 @@
     "barcode": "8999999616199",
     "nama": "Royco Bumbu Kaldu Ziplock Sapi 210G",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20142447.jpg"
+  },
+  {
+    "plu": "20133966",
+    "barcode": "20133966",
+    "nama": "",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201339661.jpg"
   }
 ]
