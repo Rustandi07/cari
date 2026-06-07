@@ -50460,12 +50460,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10019725_1.jpg"
   },
   {
-    "plu": "20140791",
-    "barcode": "8999999215262",
-    "nama": "Dove Derma Shampoo Hairfall Control Biotin 155mL",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20140791_1.jpg"
-  },
-  {
     "plu": "20140263",
     "barcode": "8992761002114",
     "nama": "Frestea Minuman Teh Blackcurrant 500mL",
@@ -55978,5 +55972,11 @@
     "barcode": "8992907002015",
     "nama": "Sari Roti Sandroll Zuperr Creamy Gandum Keju 53G",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20141959.jpg"
+  },
+  {
+    "plu": "20140791",
+    "barcode": "8999999612344",
+    "nama": "Dove Derma Shampoo Hairfall Control Biotin 155mL",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20140791.jpg"
   }
 ]
