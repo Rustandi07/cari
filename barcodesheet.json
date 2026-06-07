@@ -50460,6 +50460,12 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10019725_1.jpg"
   },
   {
+    "plu": "20140791",
+    "barcode": "8999999215262",
+    "nama": "Dove Derma Shampoo Hairfall Control Biotin 155mL",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20140791_1.jpg"
+  },
+  {
     "plu": "20140263",
     "barcode": "8992761002114",
     "nama": "Frestea Minuman Teh Blackcurrant 500mL",
@@ -51898,12 +51904,6 @@
     "barcode": "NOTA KONTAN PAPERLINE 1PLY",
     "nama": "8991389308011",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100358921.jpg"
-  },
-  {
-    "plu": "20140792",
-    "barcode": "8999999215293",
-    "nama": "DOVE DERMA SHAMPOO HAIRFALL CONTROL MICELLAR 155ml",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201407921.jpg"
   },
   {
     "plu": "20101933",
@@ -55974,9 +55974,9 @@
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20141959.jpg"
   },
   {
-    "plu": "20140791",
-    "barcode": "8999999612344",
-    "nama": "Dove Derma Shampoo Hairfall Control Biotin 155mL",
-    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20140791.jpg"
+    "plu": "20140792",
+    "barcode": "8999999612375",
+    "nama": "Dove Derma Shampoo Hairfall Control Micellar 155mL",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20140792.jpg"
   }
 ]
