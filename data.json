@@ -3409,11 +3409,11 @@
     "image": "https://c.alfagift.id/product/1/1_A7835250001073_20250326105827397_base.jpg"
   },
   {
-    "id": "27456",
-    "plu": "990061",
+    "id": "820661",
+    "plu": "446320",
     "barcode": "",
-    "name": "Vit Air Mineral Galon (Isi Ulang) 19 L A",
-    "image": "https://c.alfagift.id/product/1/1_A12460015603_20260604140601225_base.jpg"
+    "name": "Mahsuri Saus Cabe Botol 235 g",
+    "image": "https://c.alfagift.id/product/1/1_A8206610002167_20241025153737090_base.jpg"
   },
   {
     "id": "18783",
@@ -33005,38 +33005,304 @@
     "image": "https://c.alfagift.id/product/1/1_A8171090002167_20250319112007377_base.jpg"
   },
   {
-    "id": "789888",
-    "plu": "412045",
-    "barcode": "8999777010782",
-    "name": "Hansaplast Salep Luka 20 g",
-    "image": "https://c.alfagift.id/product/1/1_A7898880002167_20260503215322641_base.jpg"
+    "id": "13638",
+    "plu": "103309",
+    "barcode": "8992770094117",
+    "name": "Saori Saus Oriental Saus Tiram 23 ml",
+    "image": "https://c.alfagift.id/product/1/1_A09600001869_20260430144318137_base.jpg"
   },
   {
-    "id": "773150",
-    "plu": "313072",
-    "barcode": "8997216760045",
-    "name": "Angso Duo Salep Gatal Ketepeng 6 g",
-    "image": "https://c.alfagift.id/product/1/1_A7731500002167_20240718145619954_base.jpg"
+    "id": "13636",
+    "plu": "102172",
+    "barcode": "8992770096128",
+    "name": "Saori Saus Oriental Saus Tiram 133 ml",
+    "image": "https://c.alfagift.id/product/1/1_A09600001867_20260430143211848_base.jpg"
   },
   {
-    "id": "754921",
-    "plu": "312605",
-    "barcode": "8994591120013",
-    "name": "Zam-Buk Salep Gatal & Memar 25 g",
-    "image": "https://c.alfagift.id/product/1/1_A7549210001001_20241114092730372_base.jpg"
+    "id": "13637",
+    "plu": "103310",
+    "barcode": "8992770096227",
+    "name": "Saori Saus Oriental Saus Teriyaki Botol 135 ml",
+    "image": "https://c.alfagift.id/product/1/1_A09600001868_20260430143030061_base.jpg"
   },
   {
-    "id": "679478",
-    "plu": "410731",
-    "barcode": "8992858245912",
-    "name": "Kalpanax Salep Kulit Anti Jamur Pot 6 g",
-    "image": "https://c.alfagift.id/product/1/1_A6794780001168_20240718145356130_base.jpg"
+    "id": "776106",
+    "plu": "170080",
+    "barcode": "8992770096135",
+    "name": "Saori Saus Oriental Saus Tiram Botol 270 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7761060002167_20260430143345801_base.jpg"
   },
   {
-    "id": "825381",
-    "plu": "313139",
-    "barcode": "8992843120507",
-    "name": "Betadine Ointment Obat Salep Luka Antiseptik 5 g",
-    "image": "https://c.alfagift.id/product/1/1_A8253810002167_20250310145845234_base.jpg"
+    "id": "250937",
+    "plu": "403344",
+    "barcode": "8934804006444",
+    "name": "Maggi Saus Tiram Botol 150 g",
+    "image": "https://c.alfagift.id/product/1/1_A09600048327_20260120104430260_base.jpg"
+  },
+  {
+    "id": "13634",
+    "plu": "121000",
+    "barcode": "8992770111005",
+    "name": "Mayumi Saus Mayones Original 100 g",
+    "image": "https://c.alfagift.id/product/1/1_A09600001865_20260430142659071_base.jpg"
+  },
+  {
+    "id": "771169",
+    "plu": "178000",
+    "barcode": "8992770111012",
+    "name": "Mayumi Saus Mayones Pedas 100 g",
+    "image": "https://c.alfagift.id/product/1/1_A7711690002167_20260430142431092_base.jpg"
+  },
+  {
+    "id": "770821",
+    "plu": "428784",
+    "barcode": "8999999576967",
+    "name": "Royco Saus Tiram Botol 135 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7708210002167_20240424103227238_base.jpg"
+  },
+  {
+    "id": "804886",
+    "plu": "432422",
+    "barcode": "8999999576950",
+    "name": "Royco Saus Tiram Botol 275 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8048860002167_20240627130326300_base.jpg"
+  },
+  {
+    "id": "7",
+    "plu": "111354",
+    "barcode": "8992984910135",
+    "name": "Dua Belibis Saus Cabe Botol 335 ml",
+    "image": "https://c.alfagift.id/product/1/1_A09600005803_20241216154532826_base.jpg"
+  },
+  {
+    "id": "765447",
+    "plu": "425551",
+    "barcode": "8995102707273",
+    "name": "MamaSuka Delisaos Saus Bulgogi Botol 260 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7654470001001_20240416134725097_base.jpg"
+  },
+  {
+    "id": "747432",
+    "plu": "422359",
+    "barcode": "8998888710147",
+    "name": "Del Monte Saus Tomat Botol 265 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7474320001001_20241105103903999_base.jpg"
+  },
+  {
+    "id": "836298",
+    "plu": "105588",
+    "barcode": "8993322101550",
+    "name": "Botan Sarden Saus Tomat Kaleng 155 g",
+    "image": "https://c.alfagift.id/product/1/1_A8362980002167_20260306162608697_base.jpg"
+  },
+  {
+    "id": "13660",
+    "plu": "221340",
+    "barcode": "8888900600115",
+    "name": "La Fonte Spageti Saus Bolognese 117 g",
+    "image": "https://c.alfagift.id/product/1/1_A11380001900_20231222091751947_base.jpg"
+  },
+  {
+    "id": "759375",
+    "plu": "170190",
+    "barcode": "8998888712295",
+    "name": "Del Monte Saus Barbekiu Refill 250 g",
+    "image": "https://c.alfagift.id/product/1/1_A7593750001001_20231208103514318_base.jpg"
+  },
+  {
+    "id": "13520",
+    "plu": "111355",
+    "barcode": "8992984910128",
+    "name": "Dua Belibis Saus Cabai Botol 135 ml",
+    "image": "https://c.alfagift.id/product/1/1_A09600001724_20230530170028265_base.jpg"
+  },
+  {
+    "id": "29697",
+    "plu": "400033",
+    "barcode": "8998888712196",
+    "name": "Del Monte Saus Spageti Refill 250 g",
+    "image": "https://c.alfagift.id/product/1/1_A09600021993_20260520102542178_base.jpg"
+  },
+  {
+    "id": "3",
+    "plu": "113266",
+    "barcode": "8888900700006",
+    "name": "La Fonte Saus Pasta Bolognese 315 g",
+    "image": "https://c.alfagift.id/product/1/1_A09600002181_20231006143723939_base.jpg"
+  },
+  {
+    "id": "825349",
+    "plu": "448329",
+    "barcode": "8888900700051",
+    "name": "La Fonte Saus Pasta Carbonara 315 g",
+    "image": "https://c.alfagift.id/product/1/1_A8253490002167_20250210131032014_base.jpg"
+  },
+  {
+    "id": "836297",
+    "plu": "4015",
+    "barcode": "4902931110185",
+    "name": "Botan Sarden Mackerel Saus Tomat Kaleng 155 g",
+    "image": "https://c.alfagift.id/product/1/1_A8362970002167_20260306162550374_base.jpg"
+  },
+  {
+    "id": "13497",
+    "plu": "4016",
+    "barcode": "4902931110178",
+    "name": "Botan Sarden Mackerel Saus Tomat Kaleng 425 g",
+    "image": "https://c.alfagift.id/product/1/1_A11640001701_20240508100751845_base.jpg"
+  },
+  {
+    "id": "747434",
+    "plu": "420834",
+    "barcode": "8992770096524",
+    "name": "Saori Saus Oriental Lada Hitam Botol 133 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7474340001001_20260430142928659_base.jpg"
+  },
+  {
+    "id": "747431",
+    "plu": "414797",
+    "barcode": "8888900700037",
+    "name": "La Fonte Chicken Bolognese Saus Pasta 290 g",
+    "image": "https://c.alfagift.id/product/1/1_A7474310001001_20240416133333966_base.jpg"
+  },
+  {
+    "id": "834562",
+    "plu": "451948",
+    "barcode": "78895169355",
+    "name": "Lee Kum Kee Saus Tiram Sachet 30 g",
+    "image": "https://c.alfagift.id/product/1/1_A8345620002167_20260115143337236_base.jpg"
+  },
+  {
+    "id": "769024",
+    "plu": "650202",
+    "barcode": "78895740042",
+    "name": "Lee Kum Kee Saus Barbekiu 240 g",
+    "image": "https://c.alfagift.id/product/1/1_A7690240001014_20240508142859819_base.jpg"
+  },
+  {
+    "id": "788036",
+    "plu": "113612",
+    "barcode": "8997027906205",
+    "name": "Sun Bell Tuna Chili Sauce 185 g",
+    "image": "https://c.alfagift.id/product/1/1_A7880360001048_20241211173521790_base.jpg"
+  },
+  {
+    "id": "813153",
+    "plu": "443812",
+    "barcode": "8858702410663",
+    "name": "Tao Kae Noi Big Sheet Crispy Seaweed Japanese Sauce Box 12 x 3.2 g",
+    "image": "https://c.alfagift.id/product/1/1_A8131530002167_20241106101624069_base.jpg"
+  },
+  {
+    "id": "769459",
+    "plu": "427958",
+    "barcode": "8994907001371",
+    "name": "Heinz Saus Tomat Botol 325 g",
+    "image": "https://c.alfagift.id/product/1/1_A7694590002167_20241114102901988_base.jpg"
+  },
+  {
+    "id": "768964",
+    "plu": "427721",
+    "barcode": "8997010321725",
+    "name": "Kikkoman Saus Bulgogi Botol 300 g",
+    "image": "https://c.alfagift.id/product/1/1_A7689640002167_20260402104108936_base.jpg"
+  },
+  {
+    "id": "817409",
+    "plu": "445331",
+    "barcode": "8995952738342",
+    "name": "Morin Saus Salted Caramel 650 g",
+    "image": "https://c.alfagift.id/product/1/1_A8174090002167_20241025164146267_base.jpg"
+  },
+  {
+    "id": "820659",
+    "plu": "810611",
+    "barcode": "78895330014",
+    "name": "Mahsuri Saus Tiram Botol 255 g",
+    "image": "https://c.alfagift.id/product/1/1_A8206590002167_20241025154704888_base.jpg"
+  },
+  {
+    "id": "799722",
+    "plu": "439522",
+    "barcode": "8997010321855",
+    "name": "Kikkoman Saus Barbekiu Botol 300 g",
+    "image": "https://c.alfagift.id/product/1/1_A7997220002167_20241107144122820_base.jpg"
+  },
+  {
+    "id": "773275",
+    "plu": "431083",
+    "barcode": "8992984910166",
+    "name": "Dua Belibis Saus Cabai Botol 650 g",
+    "image": "https://c.alfagift.id/product/1/1_A7732750002167_20241114150042246_base.jpg"
+  },
+  {
+    "id": "772170",
+    "plu": "429914",
+    "barcode": "8998888712288",
+    "name": "Del Monte Saus Barbekiu Refill 1 kg",
+    "image": "https://c.alfagift.id/product/1/1_A7721700002167_20241112163710116_base.jpg"
+  },
+  {
+    "id": "773274",
+    "plu": "431082",
+    "barcode": "8992984910173",
+    "name": "Dua Belibis Saus Cabai Refill 1 kg",
+    "image": "https://c.alfagift.id/product/1/1_A7732740002167_20241114150158430_base.jpg"
+  },
+  {
+    "id": "773276",
+    "plu": "431084",
+    "barcode": "8992984911071",
+    "name": "Dua Belibis Saus Tomat Refill 1 kg",
+    "image": "https://c.alfagift.id/product/1/1_A7732760002167_20241114145952827_base.jpg"
+  },
+  {
+    "id": "832066",
+    "plu": "105474",
+    "barcode": "11210000018",
+    "name": "Tabasco Saus Pedas Red Pepper 60 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8320660002167_20251015113216492_base.jpg"
+  },
+  {
+    "id": "768966",
+    "plu": "427725",
+    "barcode": "8997010321237",
+    "name": "Kikkoman Saus Teriyaki Bawang Botol 300 g",
+    "image": "https://c.alfagift.id/product/1/1_A7689660002167_20260313094401585_base.jpg"
+  },
+  {
+    "id": "799090",
+    "plu": "438353",
+    "barcode": "8992984910142",
+    "name": "Dua Belibis Saus Cabai Botol 235 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7990900002167_20240514140206118_base.jpg"
+  },
+  {
+    "id": "768974",
+    "plu": "427728",
+    "barcode": "8998888710178",
+    "name": "Del Monte Saus Tomat Refill 1 kg",
+    "image": "https://c.alfagift.id/product/1/1_A7689740002167_20241114110459965_base.jpg"
+  },
+  {
+    "id": "819891",
+    "plu": "445052",
+    "barcode": "8998888000057",
+    "name": "Del Monte Saus Pasta Carbonara 180 g",
+    "image": "https://c.alfagift.id/product/1/1_A8198910002167_20241025163416559_base.jpg"
+  },
+  {
+    "id": "788994",
+    "plu": "436187",
+    "barcode": "8998888000019",
+    "name": "Del Monte Saus Lada Hitam Refill 250 g",
+    "image": "https://c.alfagift.id/product/1/1_A7889940002167_20241108134123740_base.jpg"
+  },
+  {
+    "id": "788993",
+    "plu": "436188",
+    "barcode": "8998888000002",
+    "name": "Del Monte Saus Barbekiu Korea Refill 250 g",
+    "image": "https://c.alfagift.id/product/1/1_A7889930002167_20241108134912400_base.jpg"
   }
 ]
