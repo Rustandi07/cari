@@ -4160,9 +4160,9 @@
   {
     "id": "772979",
     "plu": "430832",
-    "barcode": "",
-    "name": "Mindy Galon 19 L (Tanpa Air)",
-    "image": "https://c.alfagift.id/product/1/1_A7729790002167_20260604134607152_base.jpg"
+    "barcode": null,
+    "name": "Mindy Galon Air Mineral (Kosong) 19 L",
+    "image": "https://c.alfagift.id/product/1/1_A7729790002167_20250128151619825_base.jpg"
   },
   {
     "id": "769423",
@@ -19784,7 +19784,7 @@
   {
     "id": "776264",
     "plu": "432067",
-    "barcode": null,
+    "barcode": "",
     "name": "Bean Spot Roti Keju Gula 55 g",
     "image": "https://c.alfagift.id/product/1/1_A7762640002167_20240716142022832_base.jpg"
   },
@@ -23130,7 +23130,7 @@
   {
     "id": "738251",
     "plu": "419132",
-    "barcode": null,
+    "barcode": "41913222",
     "name": "Bean Spot Es Kopi Latte Gula Jawa",
     "image": "https://c.alfagift.id/product/1/1_A7382510002165_20240716163147963_base.jpg"
   },
@@ -31484,5 +31484,243 @@
     "barcode": "8992112014018",
     "name": "Neozep Forte Obat Flu Strip 4 Tablet",
     "image": "https://c.alfagift.id/product/1/1_A16920003023_20240717132422078_base.jpg"
+  },
+  {
+    "id": "720502",
+    "plu": "415902",
+    "barcode": "749921020536",
+    "name": "Diabetamil Pemanis Gula Rendah Kalori 50 pcs",
+    "image": "https://c.alfagift.id/product/1/1_A7205020001073_20240508101111006_base.jpg"
+  },
+  {
+    "id": "14595",
+    "plu": "123943",
+    "barcode": "8992802605014",
+    "name": "Diabetasol Nulife Pemanis Gula Tanpa Kalori 50 s",
+    "image": "https://c.alfagift.id/product/1/1_A09170003099_20251202151120476_base.jpg"
+  },
+  {
+    "id": "833162",
+    "plu": "452245",
+    "barcode": "8992761002091",
+    "name": "Coca-Cola Zero Sugar Minuman Soda Kola Vanila Bebas Gula 390 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8331620002168_20251121124158945_base.jpg"
+  },
+  {
+    "id": "778217",
+    "plu": "109618",
+    "barcode": "8992761111588",
+    "name": "Coca-Cola Zero Sugar Minuman Soda Rasa Kola Bebas Gula Kaleng 250 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7782170002167_20250121141340755_base.jpg"
+  },
+  {
+    "id": "791172",
+    "plu": "436814",
+    "barcode": "8992761002060",
+    "name": "Coca-Cola Zero Sugar Minuman Soda Rasa Kola Bebas Gula Botol 390 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7911720002167_20250121141401674_base.jpg"
+  },
+  {
+    "id": "758640",
+    "plu": "105782",
+    "barcode": "8992993250314",
+    "name": "Haan Gula Aren 250 g",
+    "image": "https://c.alfagift.id/product/1/1_A7586400001104_20240423142120758_base.jpg"
+  },
+  {
+    "id": "735439",
+    "plu": "420822",
+    "barcode": "8995163400342",
+    "name": "SUS Gula Pasir Lokal 1 kg",
+    "image": "https://c.alfagift.id/product/1/1_A7354390001001_20250303165017970_base.jpg"
+  },
+  {
+    "id": "13459",
+    "plu": "113850",
+    "barcode": "8992802710022",
+    "name": "Nutrive Benecol Stroberi Tanpa Gula 100 ml",
+    "image": "https://c.alfagift.id/product/1/1_A12740001657_20250114102548759_base.jpg"
+  },
+  {
+    "id": "13458",
+    "plu": "113852",
+    "barcode": "8992802710039",
+    "name": "Nutrive Benecol Blackcurrant Tanpa Gula 100 ml",
+    "image": "https://c.alfagift.id/product/1/1_A12740001656_20250114102609651_base.jpg"
+  },
+  {
+    "id": "25711",
+    "plu": "200213",
+    "barcode": "8992802037129",
+    "name": "Nutrive Benecol Leci Tanpa Gula 100 ml",
+    "image": "https://c.alfagift.id/product/1/1_A12740007153_20250114102640766_base.jpg"
+  },
+  {
+    "id": "799119",
+    "plu": "423989",
+    "barcode": "8996001330470",
+    "name": "Kopiko Blister Permen Bebas Gula 32 g",
+    "image": "https://c.alfagift.id/product/1/1_A7991190002167_20240828171847760_base.jpg"
+  },
+  {
+    "id": "817160",
+    "plu": "438858",
+    "barcode": "8997238110279",
+    "name": "Mahorahora Gula Aren Bubuk Murni 200 g",
+    "image": "https://c.alfagift.id/product/1/1_A8171600002167_20240903155805045_base.jpg"
+  },
+  {
+    "id": "25385",
+    "plu": "175923",
+    "barcode": "50604159",
+    "name": "Fisherman's Friend Permen Lemon Bebas Gula 22 g",
+    "image": "https://c.alfagift.id/product/1/1_A11910006652_20251216171458451_base.jpg"
+  },
+  {
+    "id": "178889",
+    "plu": "401130",
+    "barcode": "96091777",
+    "name": "Fisherman's Friend Permen Bebas Gula Spearmint 22 g",
+    "image": "https://c.alfagift.id/product/1/1_A11911622565_20251216172612295_base.jpg"
+  },
+  {
+    "id": "13392",
+    "plu": "1870",
+    "barcode": "50357154",
+    "name": "Fisherman's Friend Permen Sugar Free Mint 22 g",
+    "image": "https://c.alfagift.id/product/1/1_A11910001579_20251216163621925_base.jpg"
+  },
+  {
+    "id": "13060",
+    "plu": "78329",
+    "barcode": "8993017100035",
+    "name": "KOALA-LA Permen Gula Kapas Stroberi 10 g",
+    "image": "https://c.alfagift.id/product/1/1_A11910001146_20240515163729215_base.jpg"
+  },
+  {
+    "id": "794184",
+    "plu": "78332",
+    "barcode": "8993017100042",
+    "name": "KOALA-LA Permen Gula Kapas Blueberi 10 g",
+    "image": "https://c.alfagift.id/product/1/1_A7941840002167_20230420111308311_base.jpg"
+  },
+  {
+    "id": "738765",
+    "plu": "421449",
+    "barcode": "8999908808905",
+    "name": "hemaviton C1000 Jeruk Rendah Gula Kaleng 330 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7387650002168_20250916173640869_base.jpg"
+  },
+  {
+    "id": "24674",
+    "plu": "125552",
+    "barcode": "96068809",
+    "name": "Fisherman's Friend Permen Bebas Gula Blackcurrant 22 g",
+    "image": "https://c.alfagift.id/product/1/1_A11910005737_20251216170530231_base.jpg"
+  },
+  {
+    "id": "13077",
+    "plu": "115205",
+    "barcode": "8993560151041",
+    "name": "Strepsils Permen Pelega Tenggorokan Bebas Gula 8 pcs",
+    "image": "https://c.alfagift.id/product/1/1_A11910001179_20241022141616581_base.jpg"
+  },
+  {
+    "id": "767843",
+    "plu": "95102",
+    "barcode": "8994460000088",
+    "name": "IE IE Gula Batu Kristal 200 g",
+    "image": "https://c.alfagift.id/product/1/1_A7678430001073_20240418143609959_base.jpg"
+  },
+  {
+    "id": "765246",
+    "plu": "121823",
+    "barcode": "12182329",
+    "name": "Nira Gula Semut Organik Pouch 250 g",
+    "image": "https://c.alfagift.id/product/1/1_A7652460000980_20240418143837745_base.jpg"
+  },
+  {
+    "id": "841293",
+    "plu": "466054",
+    "barcode": "8997218680105",
+    "name": "GulaVit PIR Gula Kristal Putih 1 kg",
+    "image": "https://c.alfagift.id/product/1/1_A8412930002167_20260511172702141_base.jpg"
+  },
+  {
+    "id": "812853",
+    "plu": "121980",
+    "barcode": "8995158700020",
+    "name": "Sugaro Gula Pasir Kristal Putih 1 kg",
+    "image": "https://c.alfagift.id/product/1/1_A8128530002167_20240502091703562_base.jpg"
+  },
+  {
+    "id": "833641",
+    "plu": "459623",
+    "barcode": "8992997000052",
+    "name": "Probitas Bolu Panggang Gula Aren Toples 325 g",
+    "image": "https://c.alfagift.id/product/1/1_A8336410002167_20251208170132847_base.jpg"
+  },
+  {
+    "id": "767842",
+    "plu": "410809",
+    "barcode": "8997012060011",
+    "name": "Happy Sweet Gula Tebu Premium Bag 1 kg",
+    "image": "https://c.alfagift.id/product/1/1_A7678420001073_20241126100628153_base.jpg"
+  },
+  {
+    "id": "827883",
+    "plu": "801295",
+    "barcode": "749921003515",
+    "name": "Tropicana Slim Gula Jawa Bebas Gula Cair 350 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8278830002167_20250513141448346_base.jpg"
+  },
+  {
+    "id": "786369",
+    "plu": "406130",
+    "barcode": "8992802030083",
+    "name": "Diabetasol Pemanis Nol Kalori 100 sachet",
+    "image": "https://c.alfagift.id/product/1/1_A7863690002167_20241115164645256_base.jpg"
+  },
+  {
+    "id": "785253",
+    "plu": "435387",
+    "barcode": "8997004910744",
+    "name": "Evyna Gula Kelapa Alami 320 g",
+    "image": "https://c.alfagift.id/product/1/1_A7852530002167_20250404165738240_base.jpg"
+  },
+  {
+    "id": "831128",
+    "plu": "449395",
+    "barcode": "8996001331156",
+    "name": "Kopiko Permen Bebas Gula 75 g",
+    "image": "https://c.alfagift.id/product/1/1_A8311280002167_20250904145017433_base.jpg"
+  },
+  {
+    "id": "833766",
+    "plu": "449680",
+    "barcode": "8994449270013",
+    "name": "Beeru Stevia Pemanis Natural 5 ml ",
+    "image": "https://c.alfagift.id/product/1/1_A8337660002167_20260423113916318_base.jpg"
+  },
+  {
+    "id": "774192",
+    "plu": "431476",
+    "barcode": "8995163400014",
+    "name": "SUS Gula Pasir Lokal Kuning 1 kg",
+    "image": "https://c.alfagift.id/product/1/1_A7741920002167_20250303165410562_base.jpg"
+  },
+  {
+    "id": "714598",
+    "plu": "415635",
+    "barcode": "8998866201827",
+    "name": "Javana Minuman Teh Gula Batu 350 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7145980001086_20240624155914880_base.jpg"
+  },
+  {
+    "id": "800154",
+    "plu": "404963",
+    "barcode": "749921020413",
+    "name": "Tropicana Slim Stevia Pemanis Natural 50 s",
+    "image": "https://c.alfagift.id/product/1/1_A8001540002167_20250319104237731_base.jpg"
   }
 ]
