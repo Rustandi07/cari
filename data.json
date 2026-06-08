@@ -1087,7 +1087,7 @@
   {
     "id": "768154",
     "plu": "112934",
-    "barcode": null,
+    "barcode": "",
     "name": "Alfamart Telur Ayam 10 pcs",
     "image": "https://c.alfagift.id/product/1/1_A7681540001310_20240711151832762_base.jpg"
   },
@@ -32324,5 +32324,19 @@
     "barcode": "6975242804539",
     "name": "Judydoll Slim Eyebrow Pensil Alis 01 Grey Brown 1 g",
     "image": "https://c.alfagift.id/product/1/1_A8366360002167_20260323143017877_base.jpg"
+  },
+  {
+    "id": "835572",
+    "plu": "460307",
+    "barcode": "8994016015412",
+    "name": "Alfamart Popcorn Karamel 75 g",
+    "image": "https://c.alfagift.id/product/1/1_A8355720002167_20260220141248232_base.jpg"
+  },
+  {
+    "id": "728328",
+    "plu": "418378",
+    "barcode": "5509555970097",
+    "name": "Alfamart Ikat Rambut Basic Assorted",
+    "image": "https://c.alfagift.id/product/1/1_A7283280001001_20241227111739339_base.jpg"
   }
 ]
