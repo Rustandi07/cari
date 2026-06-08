@@ -1087,7 +1087,7 @@
   {
     "id": "768154",
     "plu": "112934",
-    "barcode": "",
+    "barcode": null,
     "name": "Alfamart Telur Ayam 10 pcs",
     "image": "https://c.alfagift.id/product/1/1_A7681540001310_20240711151832762_base.jpg"
   },
@@ -3409,11 +3409,11 @@
     "image": "https://c.alfagift.id/product/1/1_A7835250001073_20250326105827397_base.jpg"
   },
   {
-    "id": "826986",
-    "plu": "448747",
+    "id": "803279",
+    "plu": "435542",
     "barcode": "",
-    "name": "Grandville Abon Sapi Anak Pedas 90 g",
-    "image": "https://c.alfagift.id/product/1/1_A8269860002167_20260202115917117_base.jpg"
+    "name": "Le Minerale Air Mineral Galon B 15 L",
+    "image": "https://c.alfagift.id/product/1/1_A8032790002167_20250326105805487_base.jpg"
   },
   {
     "id": "18783",
@@ -32520,19 +32520,5 @@
     "barcode": "8991071410695",
     "name": "Grouu Minyak Lemak Sapi Botol 145 ml",
     "image": "https://c.alfagift.id/product/1/1_A8336130002167_20251205082900860_base.jpg"
-  },
-  {
-    "id": "835572",
-    "plu": "460307",
-    "barcode": "8994016015412",
-    "name": "Alfamart Popcorn Karamel 75 g",
-    "image": "https://c.alfagift.id/product/1/1_A8355720002167_20260220141248232_base.jpg"
-  },
-  {
-    "id": "728328",
-    "plu": "418378",
-    "barcode": "5509555970097",
-    "name": "Alfamart Ikat Rambut Basic Assorted",
-    "image": "https://c.alfagift.id/product/1/1_A7283280001001_20241227111739339_base.jpg"
   }
 ]
