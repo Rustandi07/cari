@@ -758,7 +758,7 @@
   {
     "id": "795176",
     "plu": "432824",
-    "barcode": "",
+    "barcode": null,
     "name": "Bean Spot Bapao Taro Besar",
     "image": "https://c.alfagift.id/product/1/1_A7951760002167_20230607141417997_base.jpg"
   },
@@ -31372,5 +31372,75 @@
     "barcode": "8998866635226",
     "name": "SoKlin Deterjen Cair Eau de Parfum Bleu Petale 700 g",
     "image": "https://c.alfagift.id/product/1/1_A8374250002167_20260531191749509_base.jpg"
+  },
+  {
+    "id": "830481",
+    "plu": "450963",
+    "barcode": "8998899088990",
+    "name": "Baygon Obat Nyamuk Aerosol Citrus Fresh 400 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8304810002167_20251104155225878_base.jpg"
+  },
+  {
+    "id": "633877",
+    "plu": "406072",
+    "barcode": "8998899995113",
+    "name": "Baygon Obat Nyamuk Aerosol Flower Garden 200 ml",
+    "image": "https://c.alfagift.id/product/1/1_A09290633877_20250415090417939_base.jpg"
+  },
+  {
+    "id": "686160",
+    "plu": "408678",
+    "barcode": "8998899995601",
+    "name": "Baygon Obat Nyamuk Aerosol Silky Lavender 400 ml",
+    "image": "https://c.alfagift.id/product/1/1_A6861600000929_20250415090441976_base.jpg"
+  },
+  {
+    "id": "832615",
+    "plu": "116159",
+    "barcode": "8998899001623",
+    "name": "Baygon Max Obat Nyamuk Bakar Lavender Jumbo 5 pcs",
+    "image": "https://c.alfagift.id/product/1/1_A8326150002169_20260225105400713_base.jpg"
+  },
+  {
+    "id": "53629",
+    "plu": "261737",
+    "barcode": "8998899001920",
+    "name": "Baygon Coil Jumbo Max Obat Nyamuk Bakar Demam Berdarah Fresh Scent 5 pcs",
+    "image": "https://c.alfagift.id/product/1/1_A06430000018_20260225094334728_base.jpg"
+  },
+  {
+    "id": "834404",
+    "plu": "14954",
+    "barcode": "8998899001128",
+    "name": "Baygon Obat Nyamuk Waterbased 500 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8344040000929_202601071139094470_base.jpg"
+  },
+  {
+    "id": "819121",
+    "plu": "445436",
+    "barcode": "8998899996356",
+    "name": "Baygon Obat Nyamuk Aerosol Flower Garden 750 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8191210002167_20250415091405520_base.jpg"
+  },
+  {
+    "id": "787269",
+    "plu": "15072",
+    "barcode": "",
+    "name": "Baygon Obat Nyamuk Aerosol Citrus Fresh 750 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7872690002167_20250415090647914_base.jpg"
+  },
+  {
+    "id": "787270",
+    "plu": "213453",
+    "barcode": "8998899001036",
+    "name": "Baygon Obat Nyamuk Aerosol Silky Lavender 750 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7872700002167_20250415090714205_base.jpg"
+  },
+  {
+    "id": "766239",
+    "plu": "426167",
+    "barcode": "8998899996028",
+    "name": "Baygon Obat Nyamuk Cair Elektrik Lavender Alat + Refill 22 ml",
+    "image": "https://c.alfagift.id/product/1/1_A7662390000929_20250415103632992_base.jpg"
   }
 ]
