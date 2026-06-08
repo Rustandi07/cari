@@ -3411,9 +3411,9 @@
   {
     "id": "727968",
     "plu": "262565",
-    "barcode": null,
-    "name": "Aqua Air Mineral Galon (Kosong) 19 L",
-    "image": "https://c.alfagift.id/product/1/1_A7279680001073_20251027103758153_base.jpg"
+    "barcode": "",
+    "name": "Aqua Galon 19 L (Tanpa Air)",
+    "image": "https://c.alfagift.id/product/1/1_A7279680001073_20260603182756478_base.png"
   },
   {
     "id": "18783",
@@ -31484,96 +31484,5 @@
     "barcode": "8992112014018",
     "name": "Neozep Forte Obat Flu Strip 4 Tablet",
     "image": "https://c.alfagift.id/product/1/1_A16920003023_20240717132422078_base.jpg"
-  },
-  {
-    "id": "841205",
-    "plu": "453308",
-    "barcode": "8997213380499",
-    "name": "Vipco Minyak Goreng 2 L",
-    "image": "https://c.alfagift.id/product/1/1_A8412050002167_20260506161456703_base.jpg"
-  },
-  {
-    "id": "762834",
-    "plu": "150063",
-    "barcode": "8997028250215",
-    "name": "Aladdin Minyak Goreng Sawit Pouch 900 ml",
-    "image": "https://c.alfagift.id/product/1/1_A7628340000985_20240507161747253_base.jpg"
-  },
-  {
-    "id": "762833",
-    "plu": "150062",
-    "barcode": "8997028250222",
-    "name": "Aladdin Minyak Goreng Sawit Pouch 1.8 L",
-    "image": "https://c.alfagift.id/product/1/1_A7628330000985_20240424104448426_base.jpg"
-  },
-  {
-    "id": "817494",
-    "plu": "445475",
-    "barcode": "8993077860603",
-    "name": "Barco Minyak Goreng Kelapa Botol 2 L\t",
-    "image": "https://c.alfagift.id/product/1/1_A8174940002167_20241114094558847_base.jpg"
-  },
-  {
-    "id": "766804",
-    "plu": "110106",
-    "barcode": "7640129898541",
-    "name": "Mazola Minyak Goreng Jagung Botol 900 ml",
-    "image": "https://c.alfagift.id/product/1/1_A7668040000985_20241114100158488_base.jpg"
-  },
-  {
-    "id": "766803",
-    "plu": "120417",
-    "barcode": "7640129898527",
-    "name": "Mazola Minyak Goreng Jagung Botol 450 ml",
-    "image": "https://c.alfagift.id/product/1/1_A7668030000985_20241114100208446_base.jpg"
-  },
-  {
-    "id": "770027",
-    "plu": "150044",
-    "barcode": "7640129898480",
-    "name": "Mazola Minyak Goreng Kanola Botol 900 ml",
-    "image": "https://c.alfagift.id/product/1/1_A7700270002167_20241113094854621_base.jpg"
-  },
-  {
-    "id": "770029",
-    "plu": "150047",
-    "barcode": "7640129897803",
-    "name": "Mazola Minyak Goreng Kedelai Botol 900 ml",
-    "image": "https://c.alfagift.id/product/1/1_A7700290002167_20241113094727654_base.jpg"
-  },
-  {
-    "id": "788526",
-    "plu": "436397",
-    "barcode": "8993018116004",
-    "name": "Ikan Dorang Minyak Goreng Kelapa Pouch 950 ml",
-    "image": "https://c.alfagift.id/product/1/1_A7885260001081_20241115143650558_base.jpg"
-  },
-  {
-    "id": "834565",
-    "plu": "125711",
-    "barcode": "8992628116145",
-    "name": "Happy Minyak Goreng Kedelai Murni Botol 1 L",
-    "image": "https://c.alfagift.id/product/1/1_A8345650002167_20260115161208233_base.jpg"
-  },
-  {
-    "id": "834564",
-    "plu": "150031",
-    "barcode": "8992628101158",
-    "name": "Happy Minyak Goreng Kedelai Murni Pouch 1 L",
-    "image": "https://c.alfagift.id/product/1/1_A8345640002167_20260115161204465_base.jpg"
-  },
-  {
-    "id": "766285",
-    "plu": "150097",
-    "barcode": "749921020253",
-    "name": "Tropicana Slim Minyak Goreng Canola Botol 946 ml",
-    "image": "https://c.alfagift.id/product/1/1_A7662850000985_20241114102319196_base.jpg"
-  },
-  {
-    "id": "770028",
-    "plu": "810642",
-    "barcode": "7640129898367",
-    "name": "Mazola Minyak Goreng Bunga Matahari Botol 900 ml",
-    "image": "https://c.alfagift.id/product/1/1_A7700280002167_20241113094814583_base.jpg"
   }
 ]
