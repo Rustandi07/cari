@@ -3409,11 +3409,11 @@
     "image": "https://c.alfagift.id/product/1/1_A7835250001073_20250326105827397_base.jpg"
   },
   {
-    "id": "727968",
-    "plu": "262565",
-    "barcode": null,
-    "name": "Aqua Air Mineral Galon (Kosong) 19 L",
-    "image": "https://c.alfagift.id/product/1/1_A7279680001073_20251027103758153_base.jpg"
+    "id": "765333",
+    "plu": "123726",
+    "barcode": "",
+    "name": "Aqua Air Mineral Galon (Isi Ulang) 19 L (A)",
+    "image": "https://c.alfagift.id/product/1/1_A7653330001073_20260603182523490_base.png"
   },
   {
     "id": "18783",
@@ -4055,9 +4055,9 @@
   {
     "id": "799259",
     "plu": "439477",
-    "barcode": null,
-    "name": "Tirmas Galon Air Mineral (Kosong) 19 L",
-    "image": "https://c.alfagift.id/product/1/1_A7992590002167_20250128151744027_base.jpg"
+    "barcode": "43947720",
+    "name": "Tirmas Galon 19 L (Tanpa Air)",
+    "image": "https://c.alfagift.id/product/1/1_A7992590002167_20260604140258437_base.jpg"
   },
   {
     "id": "767764",
@@ -4139,9 +4139,9 @@
   {
     "id": "819027",
     "plu": "432310",
-    "barcode": null,
-    "name": "Cleo Galon Air Mineral (Kosong) 19 L",
-    "image": "https://c.alfagift.id/product/1/1_A8190270002167_20250128151629904_base.jpg"
+    "barcode": "8996129800893",
+    "name": "Cleo Galon 19 L (Tanpa Air)",
+    "image": "https://c.alfagift.id/product/1/1_A8190270002167_20260604131503350_base.jpg"
   },
   {
     "id": "773151",
@@ -4244,9 +4244,9 @@
   {
     "id": "799258",
     "plu": "439476",
-    "barcode": null,
+    "barcode": "43947621",
     "name": "Tirmas Air Mineral Galon (Isi Ulang) 19 L",
-    "image": "https://c.alfagift.id/product/1/1_A7992580002167_20250128165347307_base.jpg"
+    "image": "https://c.alfagift.id/product/1/1_A7992580002167_20260604140211201_base.jpg"
   },
   {
     "id": "824230",
@@ -4321,16 +4321,16 @@
   {
     "id": "767762",
     "plu": "408574",
-    "barcode": null,
+    "barcode": "8997020120066",
     "name": "Sanford Air Mineral Galon (Isi Ulang) 19 L",
-    "image": "https://c.alfagift.id/product/1/1_A7677620001073_20250128164645831_base.jpg"
+    "image": "https://c.alfagift.id/product/1/1_A7677620001073_20260604135505123_base.jpg"
   },
   {
     "id": "754952",
     "plu": "113444",
-    "barcode": null,
+    "barcode": "8886031144423",
     "name": "Club Air Mineral Galon (Isi Ulang) 19 L",
-    "image": "https://c.alfagift.id/product/1/1_A7549520001001_20250128162913256_base.jpg"
+    "image": "https://c.alfagift.id/product/1/1_A7549520001001_20260604131600193_base.jpg"
   },
   {
     "id": "764042",
@@ -4356,9 +4356,9 @@
   {
     "id": "772978",
     "plu": "430831",
-    "barcode": null,
+    "barcode": "8997005850117",
     "name": "Mindy Air Mineral Galon (Isi Ulang) 19 L",
-    "image": "https://c.alfagift.id/product/1/1_A7729780002167_20250128164743033_base.jpg"
+    "image": "https://c.alfagift.id/product/1/1_A7729780002167_20260604134511060_base.jpg"
   },
   {
     "id": "768765",
@@ -31484,5 +31484,12 @@
     "barcode": "8992112014018",
     "name": "Neozep Forte Obat Flu Strip 4 Tablet",
     "image": "https://c.alfagift.id/product/1/1_A16920003023_20240717132422078_base.jpg"
+  },
+  {
+    "id": "835455",
+    "plu": "460235",
+    "barcode": "8992982200016",
+    "name": "Nestle Pure Life Air Mineral Galon 15 L",
+    "image": "https://c.alfagift.id/product/1/1_A8354550002167_20260212154601268_base.jpg"
   }
 ]
