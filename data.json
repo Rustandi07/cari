@@ -19782,11 +19782,11 @@
     "image": "https://c.alfagift.id/product/1/1_A7762660002167_20240716142036847_base.jpg"
   },
   {
-    "id": "776264",
-    "plu": "432067",
+    "id": "827986",
+    "plu": "449129",
     "barcode": "",
-    "name": "Bean Spot Roti Keju Gula 55 g",
-    "image": "https://c.alfagift.id/product/1/1_A7762640002167_20240716142022832_base.jpg"
+    "name": "Bumbu Bunda Elia BB Booster Nasi Instan Chicken Salmon 200 g",
+    "image": "https://c.alfagift.id/product/1/1_A8279860002167_20250514150351705_base.jpg"
   },
   {
     "id": "825357",
@@ -31864,10 +31864,136 @@
     "image": "https://c.alfagift.id/product/1/1_A10560002673_20240516104252808_base.jpg"
   },
   {
-    "id": "24160",
-    "plu": "990079",
-    "barcode": "8998866610087",
-    "name": "Javana Minuman Teh Melati 350 ml",
-    "image": "https://c.alfagift.id/product/1/1_A12300005198_20240624152537527_base.jpg"
+    "id": "791283",
+    "plu": "436511",
+    "barcode": "43651122",
+    "name": "Bean Spot Nasi Putih 200 g",
+    "image": "https://c.alfagift.id/product/1/1_A7912830002167_20230227143153497_base.jpg"
+  },
+  {
+    "id": "763995",
+    "plu": "425038",
+    "barcode": "42503828",
+    "name": "Bean Spot Paket Nasi Ayam Kalasan Sambal Bawang",
+    "image": "https://c.alfagift.id/product/1/1_A7639950001001_20240715164250328_base.jpg"
+  },
+  {
+    "id": "765706",
+    "plu": "425037",
+    "barcode": "42503729",
+    "name": "Bean Spot Paket Nasi Ayam Kalasan Sambal Matah",
+    "image": "https://c.alfagift.id/product/1/1_A7657060002165_20240715164242929_base.jpg"
+  },
+  {
+    "id": "791282",
+    "plu": "425441",
+    "barcode": "42544128",
+    "name": "Bean Spot Combo Nasi Ayam Dada / Paha Atas Sambal Matah",
+    "image": "https://c.alfagift.id/product/1/1_A7912820002167_20230227142901555_base.jpg"
+  },
+  {
+    "id": "791281",
+    "plu": "425442",
+    "barcode": "42544227",
+    "name": "Bean Spot Combo Nasi Ayam Dada / Paha Atas Sambal Bawang",
+    "image": "https://c.alfagift.id/product/1/1_A7912810002167_20230227143040287_base.jpg"
+  },
+  {
+    "id": "779921",
+    "plu": "434103",
+    "barcode": "745760859856",
+    "name": "Crystal of The Sea Ikan Teri Nasi 80 g",
+    "image": "https://c.alfagift.id/product/1/1_A7799210002167_20241114163020058_base.jpg"
+  },
+  {
+    "id": "831522",
+    "plu": "444690",
+    "barcode": "8997235971316",
+    "name": "Nasgul Nasi Gulung Siap Makan Tongseng Sapi 80 g",
+    "image": "https://c.alfagift.id/product/1/1_A8315220002167_20250922160516002_base.jpg"
+  },
+  {
+    "id": "831520",
+    "plu": "444691",
+    "barcode": "8997235971279",
+    "name": "Nasgul Nasi Gulung Siap Makan Rendang Sapi 80 g ",
+    "image": "https://c.alfagift.id/product/1/1_A8315200002167_20250922153935620_base.jpg"
+  },
+  {
+    "id": "831211",
+    "plu": "449402",
+    "barcode": "8997217120633",
+    "name": "Aceh Teri Nasi Kriuk Rasa Original Sachet 40 g",
+    "image": "https://c.alfagift.id/product/1/1_A8312110002167_20250910151751247_base.jpg"
+  },
+  {
+    "id": "831213",
+    "plu": "449404",
+    "barcode": "8997217120688",
+    "name": "Aceh Teri Nasi Kriuk Rasa Balado Sachet 40 g",
+    "image": "https://c.alfagift.id/product/1/1_A8312130002167_20250910160300584_base.jpg"
+  },
+  {
+    "id": "831214",
+    "plu": "449405",
+    "barcode": "8997217120671",
+    "name": "Aceh Teri Nasi Kriuk Rasa Barbeque Sachet 40 g",
+    "image": "https://c.alfagift.id/product/1/1_A8312140002167_20250910161654326_base.jpg"
+  },
+  {
+    "id": "831519",
+    "plu": "449440",
+    "barcode": "8997235971361",
+    "name": "Nasgul Nasi Gulung Siap Makan Beef Bulgogi 80 gr",
+    "image": "https://c.alfagift.id/product/1/1_A8315190002167_20250922151826059_base.jpg"
+  },
+  {
+    "id": "831521",
+    "plu": "449441",
+    "barcode": "8997235971330",
+    "name": "Nasgul Nasi Gulung Siap Makan Sambal Teri 80 g",
+    "image": "https://c.alfagift.id/product/1/1_A8315210002167_20250922155147593_base.jpg"
+  },
+  {
+    "id": "779919",
+    "plu": "434101",
+    "barcode": "745760859825",
+    "name": "Crystal of The Sea Bubuk Ikan Teri Nasi 20 g",
+    "image": "https://c.alfagift.id/product/1/1_A7799190002167_20241114162444707_base.jpg"
+  },
+  {
+    "id": "823774",
+    "plu": "447518",
+    "barcode": "8991071410985",
+    "name": "Grouu Super Rice Mix Nasi Instan Butter Cheese 200 g",
+    "image": "https://c.alfagift.id/product/1/1_A8237740002167_20241216173432204_base.jpg"
+  },
+  {
+    "id": "823775",
+    "plu": "447519",
+    "barcode": "8991071410992",
+    "name": "Grouu Super Rice Mix Nasi Instan Beef Steak 200 g",
+    "image": "https://c.alfagift.id/product/1/1_A8237750002167_20241216173445516_base.jpg"
+  },
+  {
+    "id": "823776",
+    "plu": "447520",
+    "barcode": "8991071411005",
+    "name": "Grouu Super Rice Mix Nasi Instan Roasted Chicken 200 g",
+    "image": "https://c.alfagift.id/product/1/1_A8237760002167_20241216173501724_base.jpg"
+  },
+  {
+    "id": "831212",
+    "plu": "449403",
+    "barcode": "8997217120695",
+    "name": "Aceh Teri Nasi Kriuk Rasa Rumput Laut Sachet 40 g",
+    "image": "https://c.alfagift.id/product/1/1_A8312120002167_20250910155026537_base.jpg"
+  },
+  {
+    "id": "829062",
+    "plu": "449210",
+    "barcode": "8850477017184",
+    "name": "Me-O Makanan Kucing Basah Adult Rasa Sarden, Ayam, dan Nasi Pouch 80 g",
+    "image": "https://c.alfagift.id/product/1/1_A8290620002167_20250703161205144_base.jpg"
   }
 ]
