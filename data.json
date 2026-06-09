@@ -3409,11 +3409,11 @@
     "image": "https://c.alfagift.id/product/1/1_A7835250001073_20250326105827397_base.jpg"
   },
   {
-    "id": "756817",
-    "plu": "123578",
+    "id": "765427",
+    "plu": "42300",
     "barcode": "",
-    "name": "Citra Sari Wangi Kue Pia Kacang Hijau 9 pcs",
-    "image": "https://c.alfagift.id/product/1/1_A7568170001001_20240515140206285_base.jpg"
+    "name": "Bright Gas Elpiji (Refill) 12 kg",
+    "image": "https://c.alfagift.id/product/1/1_A7654270000865_20241209142551875_base.jpg"
   },
   {
     "id": "18783",
@@ -33332,5 +33332,19 @@
     "barcode": "8992907000806",
     "name": "Sari Kue Dorayaki Pandan Srikaya 53 g",
     "image": "https://c.alfagift.id/product/1/1_A8262030002167_20260107165447928_base.jpg"
+  },
+  {
+    "id": "841230",
+    "plu": "421620",
+    "barcode": "8993120200318",
+    "name": "Tokai Tabung Gas Mini Portabel 235 g",
+    "image": "https://c.alfagift.id/product/1/1_A8412300002167_20260506165020855_base.jpg"
+  },
+  {
+    "id": "841229",
+    "plu": "460719",
+    "barcode": "8993120200387",
+    "name": "Tokai Korek Api Pemantik Gas Lighter GM9 Assorted",
+    "image": "https://c.alfagift.id/product/1/1_A8412290002167_20260507173036547_base.jpg"
   }
 ]
