@@ -20226,12 +20226,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20093678_1.jpg"
   },
   {
-    "plu": "20093727",
-    "barcode": "8997203820035",
-    "nama": "",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200937271.jpg"
-  },
-  {
     "plu": "20093906",
     "barcode": "6902395717881",
     "nama": "Garnier Micellar Cleansing Water Oil Infused 50mL",
@@ -56032,5 +56026,11 @@
     "barcode": "0194735000401",
     "nama": "Hot Wheels Fast Furious 2026",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20142564.jpg"
+  },
+  {
+    "plu": "20093727",
+    "barcode": "8997203820035",
+    "nama": "JUJUR MINYAK GORENG 2000mL PCH",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200937271.jpg"
   }
 ]
