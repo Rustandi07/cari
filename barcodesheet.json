@@ -42402,12 +42402,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201375281.jpg"
   },
   {
-    "plu": "20056356",
-    "barcode": "18992946526203",
-    "nama": "Shinzu'i Whiteessential Facial Wash Acne Calm 80mL",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20056356_1.jpg"
-  },
-  {
     "plu": "20137610",
     "barcode": "08999999211806",
     "nama": "Ponds Pembersih Wajah Ultra Light Hydra Miracle 90G",
@@ -56074,5 +56068,11 @@
     "barcode": "046698",
     "nama": "Sosis Bakar Keju Spicy",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201395401.jpg"
+  },
+  {
+    "plu": "20056356",
+    "barcode": "8992946526206",
+    "nama": "Shinzu'i Whiteessential Facial Wash Acne Calm 80mL",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20056356.jpg"
   }
 ]
