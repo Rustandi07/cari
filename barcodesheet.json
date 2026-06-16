@@ -59990,13 +59990,6 @@
     "permalink": "chil-kid-susu-pertumbuhan-3"
   },
   {
-    "plu": "20087542",
-    "barcode": "8998866201841",
-    "nama": "Golda Coffee Drink Dolce Latte 200mL",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20087542_1.jpg",
-    "permalink": "coffee-drink-16"
-  },
-  {
     "plu": "20141931",
     "barcode": "8999999616724",
     "nama": "Sunsilk Shampoo Silky Smooth 110mL",
@@ -61793,5 +61786,12 @@
     "nama": "Glico Wings Ice Cream Haku Almond Classic Deluxe 90mL",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20142214_1.jpg",
     "permalink": "glico-wings-glico-wings-ice-cream-haku-almond-pck-90ml"
+  },
+  {
+    "plu": "20087542",
+    "barcode": "8998866201841",
+    "nama": "Golda Coffee Drink Dolce Latte 200mL",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20087542.jpg",
+    "permalink": "coffee-drink-16"
   }
 ]
