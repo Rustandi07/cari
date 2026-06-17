@@ -38772,12 +38772,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201313901.jpg"
   },
   {
-    "plu": "20131391",
-    "barcode": "039919",
-    "nama": "NRTHLND PLAYSET SERI",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201313911.jpg"
-  },
-  {
     "plu": "20131395",
     "barcode": "039904",
     "nama": "",
@@ -61897,5 +61891,11 @@
     "nama": "Indofood Sambal Cobek Terasi 5X18G",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20142587.jpg",
     "permalink": "indofood-indofood-sambal-cobek-pck-5x18g-1"
+  },
+  {
+    "plu": "20131391",
+    "barcode": "042467",
+    "nama": "NORTHLAND TOYS PLAYSET SERIES",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201313911.jpg"
   }
 ]
