@@ -62067,18 +62067,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201424761.jpg"
   },
   {
-    "plu": "20142508",
-    "barcode": "8996001375570",
-    "nama": "DARK WONDER DARK CHOCOLATE BAR BANDED ALMOND 2x40g",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201425081.jpg"
-  },
-  {
-    "plu": "20142623",
-    "barcode": "8998866634991",
-    "nama": "GIV BODY WASH PEACH BLOSSOM 400mL PCH",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201426231.jpg"
-  },
-  {
     "plu": "20139925",
     "barcode": "5051644200702",
     "nama": "ΤIK-TOK GIFT CARD FISIK 200.000",
@@ -62090,13 +62078,6 @@
     "nama": "Blokees Wheels Transformers",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20141255.jpg",
     "permalink": "blokees-blokees-wheels-transformers-box-"
-  },
-  {
-    "plu": "20142026",
-    "barcode": "8992830250248",
-    "nama": "Indomaret Sendok Plastik 10's",
-    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20142026.jpg",
-    "permalink": "indomaret-indomaret-sendok-plastik-10s-pck-"
   },
   {
     "plu": "20117271",
@@ -62275,5 +62256,24 @@
     "barcode": "4987188512050",
     "nama": "SALONPAS JET SPRAY 118ml (Kaleng)",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200840161.jpg"
+  },
+  {
+    "plu": "20142026",
+    "barcode": "8992830250248",
+    "nama": "Indomaret Sendok Plastik 10's",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20142026_1.jpg",
+    "permalink": "indomaret-indomaret-sendok-plastik-10s-pck-"
+  },
+  {
+    "plu": "20142508",
+    "barcode": "8996001375570",
+    "nama": "DARK WONDER DARK CHOCOLATE BAR BANDED ALMOND 2x40g",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201425081.jpg"
+  },
+  {
+    "plu": "20142623",
+    "barcode": "8998866634991",
+    "nama": "GIV BODY WASH PEACH BLOSSOM 400mL PCH",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201426231.jpg"
   }
 ]
