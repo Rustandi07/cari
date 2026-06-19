@@ -55413,13 +55413,6 @@
     "permalink": "shampoo-46332"
   },
   {
-    "plu": "20140791",
-    "barcode": "8999999215262",
-    "nama": "Dove Derma Shampoo Hairfall Control Biotin 155mL",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20140791_1.jpg",
-    "permalink": "dove-dove-derma-shampoo-hairfall-control-btl-155ml"
-  },
-  {
     "plu": "20140263",
     "barcode": "8992761002114",
     "nama": "Frestea Minuman Teh Blackcurrant 500mL",
@@ -62080,5 +62073,12 @@
     "nama": "Northland Delicious Sweet Mini Food Northland",
     "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20141752.jpg",
     "permalink": "northland-northland-delicious-sweet-mini-food-pcs-"
+  },
+  {
+    "plu": "20140791",
+    "barcode": "8999999612344",
+    "nama": "Dove Derma Shampoo Hairfall Control Biotin 155mL",
+    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20140791.jpg",
+    "permalink": "dove-dove-derma-shampoo-hairfall-control-btl-155ml"
   }
 ]
