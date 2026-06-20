@@ -61061,13 +61061,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201346261.jpg"
   },
   {
-    "plu": "10000652",
-    "barcode": "089686010015",
-    "nama": "Indomie Mi Instan Ayam Bawang 69G",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10000652_1.jpg",
-    "permalink": "mie-instant-11"
-  },
-  {
     "plu": "20141985",
     "barcode": "8998866634311",
     "nama": "So Klin Pewangi Pakaian Refill Tropical Summer 780ML",
@@ -62336,5 +62329,12 @@
     "nama": "Makarizo Advisor Hair Recovery 3X8ml",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20021482_1.jpg",
     "permalink": "advisor-hair-recovery-2"
+  },
+  {
+    "plu": "10000652",
+    "barcode": "0089686010015",
+    "nama": "Indomie Mi Instan Ayam Bawang 69G",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10000652_1.jpg",
+    "permalink": "mie-instant-11"
   }
 ]
