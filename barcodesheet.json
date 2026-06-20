@@ -9338,13 +9338,6 @@
     "permalink": "obat-maag-liquid"
   },
   {
-    "plu": "20021482",
-    "barcode": "0800142202108",
-    "nama": "Makarizo Advisor Hair Recovery 3X8ml",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20021482_1.jpg",
-    "permalink": "advisor-hair-recovery-2"
-  },
-  {
     "plu": "20021571",
     "barcode": "9415007026341",
     "nama": "Anlene Gold 5x Susu Bubuk Hi-Calcium Vanila 570G",
@@ -62336,5 +62329,12 @@
     "nama": "Emeron Body Serum Lovely Natural Apple Orange 400mL",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20142410_1.jpg",
     "permalink": "emeron-emeron-body-serum-lovely-natural-btl-400ml"
+  },
+  {
+    "plu": "20021482",
+    "barcode": "800142202115",
+    "nama": "Makarizo Advisor Hair Recovery 3X8ml",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20021482_1.jpg",
+    "permalink": "advisor-hair-recovery-2"
   }
 ]
