@@ -3616,13 +3616,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100107411.jpg"
   },
   {
-    "plu": "10010804",
-    "barcode": "8993496001083",
-    "nama": "Sania Minyak Goreng Refill 1000 Ml",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10010804_1.jpg",
-    "permalink": "minyak-goreng-sania-1L"
-  },
-  {
     "plu": "10010805",
     "barcode": "8993496001076",
     "nama": "Sania Minyak Goreng Refill 2000Ml",
@@ -62349,5 +62342,12 @@
     "barcode": "048055",
     "nama": "INDOMARET BOTOL MINUM POKEMON PIKACHU",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201423531.jpg"
+  },
+  {
+    "plu": "10010804",
+    "barcode": "8993496001083",
+    "nama": "Sania Minyak Goreng Refill 1000 Ml",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10010804_1.jpg",
+    "permalink": "minyak-goreng-sania-1L"
   }
 ]
