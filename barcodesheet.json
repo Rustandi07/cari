@@ -47453,13 +47453,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20136303_1.jpg"
   },
   {
-    "plu": "20138475",
-    "barcode": "8885013132403",
-    "nama": "Walls Ice Cream Magnum  Strawberry Panna 80mL",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20138475_1.jpg",
-    "permalink": "walls-walls-ice-cream-magnum-pck-80ml-1"
-  },
-  {
     "plu": "20065858",
     "barcode": "8997002050350",
     "nama": "",
@@ -62375,5 +62368,12 @@
     "nama": "Mustika Ratu Slimming Tea 15's",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10005797_1.jpg",
     "permalink": "mustika-ratu-mustika-ratu-slimming-tea-15s-box-"
+  },
+  {
+    "plu": "20138475",
+    "barcode": "8999999608385",
+    "nama": "Walls Ice Cream Magnum  Strawberry Panna 80mL",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20138475_1.jpg",
+    "permalink": "walls-walls-ice-cream-magnum-pck-80ml-1"
   }
 ]
