@@ -57385,13 +57385,6 @@
     "permalink": "listerine-listerine-mouthwash-antiseptic-btl-250ml-1"
   },
   {
-    "plu": "20141446",
-    "barcode": "08999999223236",
-    "nama": "Lifebuoy Sabun Mandi Cair Refill Fifa Menthol Kick 360G",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20141446_1.jpg",
-    "permalink": "lifebuoy-lifebuoy-sabun-mandi-cair-refill-fifa-pch-360g"
-  },
-  {
     "plu": "20101402",
     "barcode": "036750",
     "nama": "",
@@ -58356,13 +58349,6 @@
     "nama": "Zee Susu Bubuk Instant Swizz Chocolate 600G",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20141582_1.jpg",
     "permalink": "zee-zee-susu-bubuk-instant-box-600g"
-  },
-  {
-    "plu": "20141638",
-    "barcode": "08999999223625",
-    "nama": "Lifebuoy Body Wash Fifa 500 G",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20141638_1.jpg",
-    "permalink": "lifebuoy-lifebuoy-body-wash-fifa-btl-500g"
   },
   {
     "plu": "20141960",
@@ -62449,12 +62435,6 @@
     "permalink": "indomaret-indomaret-kantong-plastik-sampah-11-bks-"
   },
   {
-    "plu": "20142570",
-    "barcode": "08999999229030",
-    "nama": "LIFEBUOY, BODY WASH HEALTHY GLOW JAPANESE SHISO 300",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201425701.jpg"
-  },
-  {
     "plu": "20142571",
     "barcode": "8885013134056",
     "nama": "AICE ICE CREAM VANILLA-COOKIES 90mL CUP",
@@ -62603,5 +62583,23 @@
     "barcode": "8994096112230",
     "nama": "Indomaret Jas Hujan Disposable Dewasa",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200391561.jpg"
+  },
+  {
+    "plu": "20141446",
+    "barcode": "8999999616113",
+    "nama": "LFBUOY BW FIFA 360G",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201414461.jpg"
+  },
+  {
+    "plu": "20141638",
+    "barcode": "8999999616243",
+    "nama": "LIFEBUOY BW FIFA 500",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201416381.jpg"
+  },
+  {
+    "plu": "20142570",
+    "barcode": "8999999632595",
+    "nama": "LIFEBUOY BODY WASH HEALTHY GLOW JAPANESE SHISO 300",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201425701.jpg"
   }
 ]
