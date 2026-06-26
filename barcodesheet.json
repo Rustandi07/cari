@@ -11917,13 +11917,6 @@
     "permalink": "cutter-sistem-putar"
   },
   {
-    "plu": "20039156",
-    "barcode": "007118",
-    "nama": "Indomaret Jas Hujan Disposable Dewasa",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20039156_1.jpg",
-    "permalink": "jas-hujan-disposable"
-  },
-  {
     "plu": "20039178",
     "barcode": "8998127912370",
     "nama": "Dunhill Rokok Fine Cut Mild Bks 20'S",
@@ -62604,5 +62597,11 @@
     "barcode": "8993335529112",
     "nama": "Fresh A Antibacterial Hand Soap",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201089821.jpg"
+  },
+  {
+    "plu": "20039156",
+    "barcode": "8994096112230",
+    "nama": "IDM J/HJN DISP DWSA",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200391561.jpg"
   }
 ]
