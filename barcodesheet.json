@@ -14226,16 +14226,10 @@
     "permalink": "gula-pasir-premium-1"
   },
   {
-    "plu": "20052298",
-    "barcode": "011108",
-    "nama": "IDM KTG PLSTK 1W SDG",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200522981.jpg"
-  },
-  {
-    "plu": "20052299",
-    "barcode": "11936",
-    "nama": "IDM KTG PLSTK 1W KCL",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200522991.jpg"
+    "plu": "20052297",
+    "barcode": "011936",
+    "nama": "IDM KTG PLSTK 1W BSR",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200522971.jpg"
   },
   {
     "plu": "20052321",
@@ -62627,9 +62621,15 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100034701.jpg"
   },
   {
-    "plu": "20052297",
-    "barcode": "011931",
-    "nama": "INDOMARET KANTONG PLASTIK (40/28X50X0.02) BESAR",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200522971.jpg"
+    "plu": "20052298",
+    "barcode": "011933",
+    "nama": "INDOMARET KANTONG PLASTIK (32/21X35X0.02) SEDANG",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200522981.jpg"
+  },
+  {
+    "plu": "20052299",
+    "barcode": "011936",
+    "nama": "INDOMARET KANTONG PLASTIK (25/15X27X0.015) KECIL",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200522991.jpg"
   }
 ]
