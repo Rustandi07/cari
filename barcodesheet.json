@@ -14226,12 +14226,6 @@
     "permalink": "gula-pasir-premium-1"
   },
   {
-    "plu": "20052297",
-    "barcode": "011936",
-    "nama": "IDM KTG PLSTK 1W BSR",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200522971.jpg"
-  },
-  {
     "plu": "20052298",
     "barcode": "011108",
     "nama": "IDM KTG PLSTK 1W SDG",
@@ -62631,5 +62625,11 @@
     "barcode": "8998899001500",
     "nama": "BAYGON MAX COIL 8 JAM ISI 5 125 GR",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/100034701.jpg"
+  },
+  {
+    "plu": "20052297",
+    "barcode": "011931",
+    "nama": "INDOMARET KANTONG PLASTIK (40/28X50X0.02) BESAR",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200522971.jpg"
   }
 ]
