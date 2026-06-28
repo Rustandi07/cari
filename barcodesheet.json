@@ -14226,12 +14226,6 @@
     "permalink": "gula-pasir-premium-1"
   },
   {
-    "plu": "20052297",
-    "barcode": "011936",
-    "nama": "IDM KTG PLSTK 1W BSR",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200522971.jpg"
-  },
-  {
     "plu": "20052321",
     "barcode": "8998866608732",
     "nama": "Daia Detergent Bubuk Romantic Pink 1.5Kg",
@@ -62680,5 +62674,11 @@
     "barcode": "8886457601036",
     "nama": "EMCO SPEED DEMONZ MINI REMOTE R/C",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201011181.jpg"
+  },
+  {
+    "plu": "20052297",
+    "barcode": "011931",
+    "nama": "INDOMARET KANTONG PLASTIK  BESAR",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200522971.jpg"
   }
 ]
