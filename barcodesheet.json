@@ -48044,13 +48044,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201388741.jpg"
   },
   {
-    "plu": "10011851",
-    "barcode": "14902430102237",
-    "nama": "Head & Shoulders Shampoo Anti Dandruff Smooth & Silky / Selembut Sutra 160Ml",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10011851_1.jpg",
-    "permalink": "shampoo-ad-smooth--silky-"
-  },
-  {
     "plu": "20138372",
     "barcode": "8993058307219",
     "nama": "Komix Obat Batuk Obh 6X7mL",
@@ -62767,5 +62760,12 @@
     "barcode": "8990114000077",
     "nama": "CAMPINA ICE CREAM OLYMPIA CHCOLATE VANILA 80ml CUP",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201427621.jpg"
+  },
+  {
+    "plu": "10011851",
+    "barcode": "4902430396028",
+    "nama": "Head & Shoulders Shampoo Anti Dandruff Smooth & Silky / Selembut Sutra 145mL",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/10011851_1.jpg",
+    "permalink": "shampoo-ad-smooth--silky-"
   }
 ]
