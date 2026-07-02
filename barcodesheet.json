@@ -61546,13 +61546,6 @@
     "permalink": "walls-walls-ice-cream-magnum-pck-80ml-2"
   },
   {
-    "plu": "20142587",
-    "barcode": "189686401124",
-    "nama": "Indofood Sambal Cobek Terasi 5X18G",
-    "gambar": "https://raw.githubusercontent.com/Rustandi07/gambar/main/20142587.jpg",
-    "permalink": "indofood-indofood-sambal-cobek-pck-5x18g-1"
-  },
-  {
     "plu": "20142498",
     "barcode": "8993200000050",
     "nama": "KANZLER KOREAN HOT SAUCE GOCHU JANG LEVEL 15 120g",
@@ -62842,5 +62835,12 @@
     "nama": "Ewater Minuman Isotonic Grapefruit 380mL",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20142862_1.jpg",
     "permalink": "ewater-ewater-minuman-isotonic-btl-380ml"
+  },
+  {
+    "plu": "20142587",
+    "barcode": "189686401117",
+    "nama": "Indofood Sambal Cobek Terasi 5X18G",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20142587_1.jpg",
+    "permalink": "indofood-indofood-sambal-cobek-pck-5x18g-1"
   }
 ]
