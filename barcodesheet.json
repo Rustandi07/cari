@@ -54453,13 +54453,6 @@
     "permalink": "muscat-hijau-import"
   },
   {
-    "plu": "20140431",
-    "barcode": "08992696529410",
-    "nama": "Nescafe Coffee Drink Kitkat Latte 220mL",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20140431_1.jpg",
-    "permalink": "nescafe-nescafe-coffee-drink-kitkat-latte-klg-220ml"
-  },
-  {
     "plu": "20140481",
     "barcode": "4897144700714",
     "nama": "Glad2glow Low Ph 5.5 Gentle Facial Wash 70mL",
@@ -62949,5 +62942,18 @@
     "nama": "Fit Me Up Minuman Berkarbonasi Relax 160mL",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20142467_1.jpg",
     "permalink": "fit-me-up-fit-me-up-minuman-berkarbonasi-relax-btl-160ml"
+  },
+  {
+    "plu": "20140431",
+    "barcode": "8992696529403",
+    "nama": "Nescafe Coffee Drink Kitkat Latte 220mL",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20140431_1.jpg",
+    "permalink": "nescafe-nescafe-coffee-drink-kitkat-latte-klg-220ml"
+  },
+  {
+    "plu": "20142904",
+    "barcode": "8992775101728",
+    "nama": "CHCLTOS RCH MTCHA 54",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201429041.jpg"
   }
 ]
