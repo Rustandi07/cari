@@ -44127,13 +44127,6 @@
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201362981.jpg"
   },
   {
-    "plu": "20136299",
-    "barcode": "8999999600310",
-    "nama": "Sunsilk Multivitamin Hair Perfume 100mL",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20136299_1.jpg",
-    "permalink": "multivitamin-hair-perfume"
-  },
-  {
     "plu": "20136302",
     "barcode": "8999999607715",
     "nama": "Wall's Ice Cream Cornetto Crunch Milk Berry 80mL",
@@ -62968,5 +62961,32 @@
     "barcode": "8997218510037",
     "nama": "ZICO SHANGHAI KACANG BESAR 225g (Pack)",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200793741.jpg"
+  },
+  {
+    "plu": "20142682",
+    "barcode": "8901526689576",
+    "nama": "Garnier Hair Color Naturals K Glow Milk Tea 30mL",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20142682_1.jpg",
+    "permalink": "garnier-garnier-hair-color-naturals-pck-30ml30g"
+  },
+  {
+    "plu": "20136299",
+    "barcode": "8999999600310",
+    "nama": "Sunsilk Multivitamin Hair Perfume 100mL",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20136299_1.jpg",
+    "permalink": "multivitamin-hair-perfume"
+  },
+  {
+    "plu": "20109032",
+    "barcode": "9300683016307",
+    "nama": "Mc Cormick Oregano Leaves 10G",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20109032_1.jpg",
+    "permalink": "oregano-leaves"
+  },
+  {
+    "plu": "20140886",
+    "barcode": "8935001727767",
+    "nama": "CHUPA CHUPS 1 METER",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201408861.jpg"
   }
 ]
