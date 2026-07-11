@@ -51804,13 +51804,6 @@
     "permalink": "macan-terbang-macan-terbang-beras-sak-5kg"
   },
   {
-    "plu": "20139767",
-    "barcode": "20101058",
-    "nama": "Kacang Telur Bawang 125G",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20139767_1.jpg",
-    "permalink": "kacang-telur-kacang-telur-kacang-telur-bawang-pck-125g"
-  },
-  {
     "plu": "20052032",
     "barcode": "0619659075569",
     "nama": "",
@@ -63020,5 +63013,88 @@
     "nama": "Cedea Crab Stick Jumbo Spicy 55g",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20142575_1.jpg",
     "permalink": "cedea-cedea-crab-stick-jumbo-pck-55g"
+  },
+  {
+    "plu": "20093058",
+    "barcode": "8997011792185",
+    "nama": "steak sauce",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200930581.jpg"
+  },
+  {
+    "plu": "20134766",
+    "barcode": "1000172775958",
+    "nama": "Play Doh Starter Playset Set Assorted",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20134766_1.jpg",
+    "permalink": "starter-playset-set"
+  },
+  {
+    "plu": "06534307",
+    "barcode": "046009",
+    "nama": "Bakso Goreng",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/065343071.jpg"
+  },
+  {
+    "plu": "20122729",
+    "barcode": "042307",
+    "nama": "Keripik Bawang 150",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201227291.jpg"
+  },
+  {
+    "plu": "20114036",
+    "barcode": "038687",
+    "nama": "Stick Kentang",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201140361.jpg"
+  },
+  {
+    "plu": "20137462",
+    "barcode": "046090",
+    "nama": "Keripik Ubi Madu",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201374621.jpg"
+  },
+  {
+    "plu": "20137234",
+    "barcode": "046008",
+    "nama": "Kerupuk kulit",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201372341.jpg"
+  },
+  {
+    "plu": "20092621",
+    "barcode": "036471",
+    "nama": "Saos bbq",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/200926211.jpg"
+  },
+  {
+    "plu": "20139767",
+    "barcode": "046688",
+    "nama": "Kacang Telur Bawang 125G",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20139767_1.jpg",
+    "permalink": "kacang-telur-kacang-telur-kacang-telur-bawang-pck-125g"
+  },
+  {
+    "plu": "20141933",
+    "barcode": "14987176076653",
+    "nama": "Pantene Miracles Suplement Conditioner Biotin Strength 150mL",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20141933_1.jpg",
+    "permalink": "pantene-pantene-miracles-suplement-conditioner-tub-150ml-1"
+  },
+  {
+    "plu": "20142454",
+    "barcode": "8999099932946",
+    "nama": "Sgm Eksplor 1+ Pro-Gressmaxx Susu Pertumbuhan Vanilla 1050G",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20142454_1.jpg",
+    "permalink": "sgm-eksplor-1-sgm-eksplor-1-pro-gressmaxx-susu-pertumbuhan-box-1050g-0"
+  },
+  {
+    "plu": "20142943",
+    "barcode": "8994096112063",
+    "nama": "INDOMARET CHOCO CRACKERS 100G",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/201429431.jpg"
+  },
+  {
+    "plu": "20054034",
+    "barcode": "8858702410816",
+    "nama": "Tao Kae Noi Big Roll Grilled Seaweed Roll Classic 3.6G",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20054034_1.jpg",
+    "permalink": "tao-kae-noi-tao-kae-noi-big-roll-grilled-seaweed-roll-pck-36g-0"
   }
 ]
