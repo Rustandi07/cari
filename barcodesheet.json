@@ -54412,13 +54412,6 @@
     "permalink": "pop-mie-pop-mie-mi-instan-cup-79g"
   },
   {
-    "plu": "20130892",
-    "barcode": "20130892",
-    "nama": "Anggur Muscat Hijau Import",
-    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20130892_1.jpg",
-    "permalink": "muscat-hijau-import"
-  },
-  {
     "plu": "20140481",
     "barcode": "4897144700714",
     "nama": "Glad2glow Low Ph 5.5 Gentle Facial Wash 70mL",
@@ -63154,5 +63147,12 @@
     "nama": "Tropicana Slim Susu Bubuk Diabtx Milk With Whey Vanilla Malt 150G",
     "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20141772_1.jpg",
     "permalink": "tropicana-slim-tropicana-slim-susu-bubuk-diabtx-milk-wwhey-box-150g"
+  },
+  {
+    "plu": "20130892",
+    "barcode": "048884",
+    "nama": "Anggur Muscat Hijau Import",
+    "gambar": "https://cdn-klik.klikindomaret.com/klik-catalog/product/20130892_1.jpg",
+    "permalink": "muscat-hijau-import"
   }
 ]
