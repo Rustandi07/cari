@@ -3409,11 +3409,11 @@
     "image": "https://c.alfagift.id/product/1/1_A7835250001073_20250326105827397_base.jpg"
   },
   {
-    "id": "828557",
-    "plu": "449173",
+    "id": "842268",
+    "plu": "461137",
     "barcode": "",
-    "name": "Amidis Air Minum yang Dimasak Botol 24 x 600 ml - Karton",
-    "image": "https://c.alfagift.id/product/1/1_A8285570002167_20250730135901839_base.jpg"
+    "name": "Bean Spot Wall's Berrypunch Milkshake 16 oz",
+    "image": "https://c.alfagift.id/product/1/1_A8422680002167_20260618095812322_base.jpg"
   },
   {
     "id": "18783",
@@ -39800,5 +39800,68 @@
     "barcode": "8992745545088",
     "name": "Mitu Baby Tisu Basah Bayi Ganti Popok Playful Fressia 50 s - Beli 1 Gratis 1",
     "image": "https://c.alfagift.id/product/1/1_A09060802739_20240326223702924_base.jpg"
+  },
+  {
+    "id": "843035",
+    "plu": "460738",
+    "barcode": "8721274611335",
+    "name": "Wall's Magnum Es Krim Pistachio 80 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8430350002167_20260622165159596_base.jpg"
+  },
+  {
+    "id": "834631",
+    "plu": "452942",
+    "barcode": "8721274611199",
+    "name": "Wall's Es Krim Ice Ball Anggur 69 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8346310002167_20260120140915908_base.jpg"
+  },
+  {
+    "id": "843009",
+    "plu": "461245",
+    "barcode": "8721274611434",
+    "name": "Wall's Populaire Es Krim Leci Yoghurt 90 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8430090002167_20260622165027006_base.jpg"
+  },
+  {
+    "id": "837437",
+    "plu": "460656",
+    "barcode": "8721274611410",
+    "name": "Wall's Cornetto Es Krim Stroberi Matcha 108 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8374370002167_20260409150702590_base.jpg"
+  },
+  {
+    "id": "843058",
+    "plu": "461273",
+    "barcode": "8721274611779",
+    "name": "Wall's Es Krim Cookies & Cream Strawberry Cheesecake 350 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8430580002167_20260624135058473_base.jpg"
+  },
+  {
+    "id": "834632",
+    "plu": "452943",
+    "barcode": "8721274611205",
+    "name": "Wall's Es Krim Ice Ball Guava Stroberi 69 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8346320002167_20260120140932622_base.jpg"
+  },
+  {
+    "id": "835261",
+    "plu": "460301",
+    "barcode": "8721274641325",
+    "name": "Wall's Calippo Pokemon Es Krim Peach Mangga 100 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8352610002167_20260210160723797_base.jpg"
+  },
+  {
+    "id": "835260",
+    "plu": "460300",
+    "barcode": "8721274641318",
+    "name": "Wall's Calippo Pokemon Es Krim Stroberi Nanas 100 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8352600002167_20260210160717789_base.jpg"
+  },
+  {
+    "id": "842629",
+    "plu": "461180",
+    "barcode": "8721274611342",
+    "name": "Wall's Magnum Mini Es Krim Almond Pistachio 6 x 45 ml",
+    "image": "https://c.alfagift.id/product/1/1_A8426290002167_20260610164543501_base.jpg"
   }
 ]
